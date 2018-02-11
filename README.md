@@ -8,6 +8,6 @@ A lot of them also use C++ when they don't have to. I'll get to C++ when it is r
 
 Motivation
 ==============
-I know a whole ton of computer related languages and can dive into nearly any of them pretty easily, with the exceptions are C and C++ because of memory management (strangely I feel more confident of learning ASM than C).
+I know a whole ton of computer related languages and can dive into nearly any of them pretty easily, with the exceptions of C and C++ because of memory management (strangely I feel more confident of learning ASM than C).
 
 So I decided to learn a little C since I know I'll need it eventually. I started programming these immediately after writing up my first C hello world =)
