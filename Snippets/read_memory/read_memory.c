@@ -16,7 +16,7 @@
 #include <limits.h>
 
 /**
- * Function: readMemoryAddress
+ * Function: printMemoryAddress
  * 
  * Description: Reads a given memory address and prints the result as a hexadecimal string
  *
@@ -27,7 +27,7 @@
  */
 void printMemoryAddress(HANDLE processHandle, int memoryAddress, int readMemSize){
   // Define and zero the buffer
-  unsigned char buffer[readMemSize]; //we need to use unsigned, otherwise numbers such as "B8" with 6 0's behind it (000000B8) becomes printed as "FFFFFFB8" rather than "B8"
+  unsigned char buffer[readMemSize]; // we need to use unsigned, otherwise numbers such as "B8" with 6 0's behind it (000000B8) becomes printed as "FFFFFFB8" rather than "B8"
   memset(buffer, 0, sizeof(char)*sizeof(buffer[0]));
 
   // Read the memory and store result in buffer
@@ -48,7 +48,7 @@ int main(int argc, char *argv[]){
   
   // Get process arguments
   int processId = strtol(argv[1], NULL, 10);
-  int memAddress = (int)strtol(argv[2], NULL, 16); //we get the memory address as hex, so base 16
+  int memAddress = (int)strtol(argv[2], NULL, 16); // we get the memory address as hex, so base 16
   int readMemSize = strtol(argv[3], NULL, 10);
   
   // Exit if process arguments are not in correct format
