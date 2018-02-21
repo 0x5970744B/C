@@ -1,6 +1,6 @@
 /*
  * read_memory.c
- * Description: A simple code snippet to read and print memory addresses in a given process
+ * Description: A simple code snippet to read memory addresses and print the byte array value in a given process
  *
  * Author: Timothy Gan Z.
  * Version: 0.0.1
@@ -42,7 +42,7 @@ void printMemoryAddress(HANDLE processHandle, int memoryAddress, int readMemSize
 int main(int argc, char *argv[]){
   // Ensure required argument count is correct
   if(argc != 4){ // 1st argument is always the process name + 3 required arguments
-	  printf("Error 001: Program needs 3 arguments\nFormat: 'read_memory.exe <pid> <memory_location> <number_of_bytes>', e.g. 'read_memory.exe 7600 00400000 4'");
+    printf("Error 001: Program needs 3 arguments\nFormat: 'read_memory.exe <pid> <memory_location> <number_of_bytes>', e.g. 'read_memory.exe 7600 00400000 4'");
     return 1;
   }
   
