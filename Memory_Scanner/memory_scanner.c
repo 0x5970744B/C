@@ -1,30 +1,45 @@
+/*
+ * memory_scanner.c
+ * Description: A simple memory scanner and writer
+ *
+ * v0.0.1 Author: gimmeamilk (https://www.youtube.com/channel/UCnxW29RC80oLvwTMGNI0dAg)
+ * > v0.0.1 Author: Timothy Gan Z.
+ *
+ * Version: 0.0.2
+ * Date: 24 Feb 2018
+ *
+ * Run format: Run as admin and follow instructions printed
+ */
+
 #include <windows.h>
 #include <stdio.h>
 
 #define IS_IN_SEARCH(mb,offset) (mb->searchmask[(offset)/8] & (1<<((offset)%8)))
 #define REMOVE_FROM_SEARCH(mb,offset) mb->searchmask[(offset)/8] &= ~(1<<((offset)%8));
 
+// Memory structure of each memory block found using VirtualQueryEx
 typedef struct _MEMBLOCK
 {
-    HANDLE hProc;
-    unsigned char *addr;
-    int size;
+    HANDLE hProc; //process handle of the process this memory block is in (seems wasteful to store this multiple times unless we are scanning more than 1 process at a time)
+    unsigned char *addr; //pointer to hexadecimal address this memory block starts in
+    int size; //size of this memory block
     unsigned char *buffer;
 
     unsigned char *searchmask;
-    int matches;
-    int data_size;
+    int matches; //number of matches to the value we are searching for in this memory block
+    int data_size; //data size of the value we are scanning for (i.e. 1 byte, 2 bytes, or 4 bytes)
 
-    struct _MEMBLOCK *next;
+    struct _MEMBLOCK *next; //using linked list: link to next item
 } MEMBLOCK;
 
+// The type of search we are doing
 typedef enum 
 {
-    COND_UNCONDITIONAL,
-    COND_EQUALS,
+    COND_UNCONDITIONAL, //match on every address (this happens if we use the unknown scan initially)
+    COND_EQUALS, //exact match
 
-    COND_INCREASED,
-    COND_DECREASED,
+    COND_INCREASED, //increased value by unknown amount
+    COND_DECREASED, //decreased value by unknown amount
 } SEARCH_CONDITION;
 
 
@@ -79,6 +94,19 @@ BOOL SetPrivilege(
 	return TRUE;
 }
 
+/**
+ * Function: create_memblock
+ * 
+ * Description: Creates an individual block of memory that stores data of each individual virtual page. 
+ *
+ * Input:
+ *   hProc - process handle of the process this memory block is in
+ *   *meminfo - a pointer to the Windows MEMORY_BASIC_INFORMATION structure returned by VirtualQueryEx
+ *   data_size - data size of the value we are scanning for (i.e. 1 byte, 2 bytes, or 4 bytes)
+ *
+ * Output:
+ *   The created memory block structure
+ */
 MEMBLOCK* create_memblock (HANDLE hProc, MEMORY_BASIC_INFORMATION *meminfo, int data_size)
 {
     MEMBLOCK *mb = malloc (sizeof(MEMBLOCK));
@@ -99,6 +127,14 @@ MEMBLOCK* create_memblock (HANDLE hProc, MEMORY_BASIC_INFORMATION *meminfo, int 
     return mb;
 }
 
+/**
+ * Function: free_memblock
+ * 
+ * Description: Frees the buffer and searchmask inside an individual memory block structure, then frees the memory block.
+ *
+ * Input:
+ *   *mb - a pointer to the memory block to be freed
+ */
 void free_memblock (MEMBLOCK *mb)
 {
     if (mb)
@@ -117,7 +153,16 @@ void free_memblock (MEMBLOCK *mb)
     }
 }
 
-
+/**
+ * Function: update_memblock
+ * 
+ * Description: Updates an individual memory block structure based on a given memory scan/search condition
+ *
+ * Input:
+ *   *mb - a pointer to the memory block to be updated
+ *   condition - the type of scan to be performed
+ *   val - (only used if doing an exact value match new/next scan) the value to be searched for
+ */
 void update_memblock (MEMBLOCK *mb, SEARCH_CONDITION condition, unsigned int val)
 {
     static unsigned char tempbuf[128*1024];
@@ -210,7 +255,15 @@ void update_memblock (MEMBLOCK *mb, SEARCH_CONDITION condition, unsigned int val
 }
 
 
-
+/**
+ * Function: create_scan
+ * 
+ * Description: Get the process handle and map out all virtual pages which we can write to using VirtualQueryEx, creating a linked list memory block structure based on the mapped data
+ *
+ * Input:
+ *   pid - the process identifier to be scanned
+ *   data_size - the number of bytes to be searched for (i.e. 1 byte, 2 byte, or 4 byte types)
+ */
 MEMBLOCK* create_scan (unsigned int pid, int data_size)
 {
     MEMBLOCK *mb_list = NULL;
@@ -247,7 +300,14 @@ MEMBLOCK* create_scan (unsigned int pid, int data_size)
     return mb_list;
 }
 
-
+/**
+ * Function: free_scan
+ * 
+ * Description: Frees all the scan data (which is just a memory block linked list).
+ *
+ * Input:
+ *   *mb_list - a pointer to the start of the memory block linked list
+ */
 void free_scan (MEMBLOCK *mb_list)
 {
     CloseHandle (mb_list->hProc);
@@ -260,6 +320,16 @@ void free_scan (MEMBLOCK *mb_list)
     }
 }
 
+/**
+ * Function: update_memblock
+ * 
+ * Description: Updates all the scan data (which is just a memory block linked list) based on a given memory scan/search condition
+ *
+ * Input:
+ *   *mb_list - a pointer to the start of the memory block linked list
+ *   condition - the type of scan to be performed
+ *   val - (only used if doing an exact value match new/next scan) the value to be searched for
+ */
 void update_scan (MEMBLOCK *mb_list, SEARCH_CONDITION condition, unsigned int val)
 {
     MEMBLOCK *mb = mb_list;
@@ -270,7 +340,14 @@ void update_scan (MEMBLOCK *mb_list, SEARCH_CONDITION condition, unsigned int va
     }
 }
 
-
+/**
+ * Function: dump_scan_info
+ * 
+ * Description: Unused function (seems to print out the entire program's memory structure which we mapped out in hex)
+ *
+ * Input:
+ *   *mb_list - a pointer to the start of the memory block linked list
+ */
 void dump_scan_info (MEMBLOCK *mb_list)
 {
     MEMBLOCK *mb = mb_list;
@@ -290,7 +367,17 @@ void dump_scan_info (MEMBLOCK *mb_list)
     }
 }
 
-
+/**
+ * Function: poke
+ * 
+ * Description: Update a given memory address with a new value
+ *
+ * Input:
+ *   hProc - process handle of the process which the memory address is in
+ *   data_size - the data size of the value to be updated (i.e. 1 byte, 2 byte, or 4 byte types)
+ *   addr - the hexadecimal memory address to be updated
+ *   val - the new value the address is to be updated with
+ */
 void poke (HANDLE hProc, int data_size, unsigned int addr, unsigned int val)
 {
     if (WriteProcessMemory (hProc, (void*)addr, &val, data_size, NULL) == 0)
@@ -299,6 +386,16 @@ void poke (HANDLE hProc, int data_size, unsigned int addr, unsigned int val)
     }
 }
 
+/**
+ * Function: peek
+ * 
+ * Description: View the value of a given memory address
+ *
+ * Input:
+ *   hProc - process handle of the process which the memory address is in
+ *   data_size - the data size of the value to be viewed (i.e. 1 byte, 2 byte, or 4 byte types)
+ *   addr - the hexadecimal memory address to be viewed
+ */
 unsigned int peek (HANDLE hProc, int data_size, unsigned int addr)
 {
     unsigned int val = 0;
@@ -311,7 +408,14 @@ unsigned int peek (HANDLE hProc, int data_size, unsigned int addr)
     return val;
 }
 
-
+/**
+ * Function: print_matches
+ * 
+ * Description: Print out all matches to our search in a particular scan to the screen
+ *
+ * Input:
+ *   *mb_list - a pointer to the start of the memory block linked list
+ */
 void print_matches (MEMBLOCK *mb_list)
 {
     unsigned int offset;
@@ -332,7 +436,14 @@ void print_matches (MEMBLOCK *mb_list)
     }
 }
 
-
+/**
+ * Function: get_match_count
+ * 
+ * Description: Print out the number of matches to our search in a particular scan to the screen
+ *
+ * Input:
+ *   *mb_list - a pointer to the start of the memory block linked list
+ */
 int get_match_count (MEMBLOCK *mb_list)
 {
     MEMBLOCK *mb = mb_list;
@@ -348,7 +459,14 @@ int get_match_count (MEMBLOCK *mb_list)
 }
 
 
-
+/**
+ * Function: str2int
+ * 
+ * Description: Utility function --- Convert a string to an integer
+ *
+ * Input:
+ *   *s - the string to be converted. This can be in base 16 format (/0x[0-9a-fA-F]+/) or base 10 format (/\d+/)
+ */
 unsigned int str2int (char *s)
 {
     int base = 10;
@@ -362,7 +480,14 @@ unsigned int str2int (char *s)
     return strtoul (s, NULL, base);
 }
 
-
+/**
+ * Function: ui_new_scan
+ * 
+ * Description: UI function --- Starts the program by asking user for input
+ *
+ * Output:
+ *   MEMBLOCK* - the created scan results (which is just a memory block linked list) based on the user input
+ */
 MEMBLOCK* ui_new_scan(void)
 {
     MEMBLOCK *scan = NULL;
@@ -404,7 +529,15 @@ MEMBLOCK* ui_new_scan(void)
     return scan;
 }
 
-
+/**
+ * Function: ui_poke
+ * 
+ * Description: UI function --- Continuation after ui_new_scan; Ask the user for further input after the initial scan in order to update a given memory address value
+ *
+ * Output:
+ *   hProc - process handle of the process which the memory address is in
+ *   data_size - the data size of the value to be viewed (i.e. 1 byte, 2 byte, or 4 byte types)
+ */
 void ui_poke (HANDLE hProc, int data_size)
 {
     unsigned int addr;
@@ -423,7 +556,14 @@ void ui_poke (HANDLE hProc, int data_size)
     poke (hProc, data_size, addr, val);
 }
 
-
+/**
+ * Function: ui_run_scan
+ * 
+ * Description: UI function --- Continuation after ui_new_scan; Continue the scan by asking user for further input after the initial scan
+ *
+ * Output:
+ *   MEMBLOCK* - the created scan results (which is just a memory block linked list) based on the user input
+ */
 void ui_run_scan(void)
 {
     unsigned int val;
