@@ -5,7 +5,7 @@
  * v0.0.1 Author: gimmeamilk (https://www.youtube.com/channel/UCnxW29RC80oLvwTMGNI0dAg)
  * > v0.0.1 Author: Timothy Gan Z.
  *
- * Version: 0.0.2
+ * Version: 0.1.0
  * Date: 24 Feb 2018
  *
  * Run format: Run as admin and follow instructions printed

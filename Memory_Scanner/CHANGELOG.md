@@ -1,3 +1,7 @@
+## 0.1.0 - 2018-02-24
+### Added
+- Option for the previously unused memory dump function
+
 ## 0.0.2 - 2018-02-24
 ### Added
 - Lots of comments to the code
