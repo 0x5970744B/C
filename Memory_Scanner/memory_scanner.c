@@ -343,10 +343,13 @@ void update_scan (MEMBLOCK *mb_list, SEARCH_CONDITION condition, unsigned int va
 /**
  * Function: dump_scan_info
  * 
- * Description: Unused function (seems to print out the entire program's memory structure which we mapped out in hex)
+ * Description: Print out the entire program's memory in hex to the screen
  *
  * Input:
  *   *mb_list - a pointer to the start of the memory block linked list
+ *
+ * Notes:
+ *   Not very useful since it takes forever to print everything to screen and we can't do anything with it. Probably better to save to disk.
  */
 void dump_scan_info (MEMBLOCK *mb_list)
 {
@@ -580,6 +583,7 @@ void ui_run_scan(void)
         printf ("\r\n[m] print matches");
         printf ("\r\n[p] poke address");
         printf ("\r\n[n] new scan");
+        printf ("\r\n[X] extended options"); //because the initial author decided one char could abbreviate everything...
         printf ("\r\n[q] quit\r\n");
 
         fgets(s,sizeof(s),stdin);
@@ -604,6 +608,17 @@ void ui_run_scan(void)
             case 'n':
                 free_scan (scan);
                 scan = ui_new_scan();
+                break;
+            //get input again for extended options
+            case 'X':
+                printf ("\r\nEnter the extended option choice");
+                printf ("\r\n[md] memory dump");
+                fgets(s,sizeof(s),stdin);
+                printf ("\r\n");
+                
+                //print hexadecimal memory dump to screen
+                if( strcmp(s, "md\n") == 0 ){ dump_scan_info(scan); }
+                
                 break;
             case 'q':
                 free_scan (scan);
