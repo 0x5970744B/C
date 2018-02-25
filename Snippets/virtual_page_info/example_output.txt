@@ -1,0 +1,4438 @@
+Base address: 0x0
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 2228224
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x220000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x221000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1404928
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x378000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 389120
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x3d7000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x3d8000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x3d9000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x3dc000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x3de000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x3df000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 61440
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x3ee000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x3f3000
+Allocation address: 0x220000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 638976
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x48f000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 7933952
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0xc20000
+Allocation address: 0xc20000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0xc21000
+Allocation address: 0xc20000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0xc22000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 57344
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0xc30000
+Allocation address: 0xc30000
+Memory protection: PAGE_READWRITE
+Region size: 65536
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_MAPPED
+
+Base address: 0xc40000
+Allocation address: 0xc40000
+Memory protection: PAGE_READWRITE
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0xc43000
+Allocation address: 0xc40000
+Memory protection: PAGE_READWRITE
+Region size: 45056
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0xc4e000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 8192
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0xc50000
+Allocation address: 0xc50000
+Memory protection: PAGE_READONLY
+Region size: 102400
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0xc69000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 28672
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0xc70000
+Allocation address: 0xc70000
+Memory protection: PAGE_READWRITE
+Region size: 176128
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0xc9b000
+Allocation address: 0xc70000
+Memory protection: PAGE_READWRITE
+Region size: 12288
+State: MEM_COMMIT
+Protect: Unknown memory protection value
+Type: MEM_PRIVATE
+
+Base address: 0xc9e000
+Allocation address: 0xc70000
+Memory protection: PAGE_READWRITE
+Region size: 73728
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0xcb0000
+Allocation address: 0xcb0000
+Memory protection: PAGE_READWRITE
+Region size: 430080
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0xd19000
+Allocation address: 0xcb0000
+Memory protection: PAGE_READWRITE
+Region size: 8192
+State: MEM_COMMIT
+Protect: Unknown memory protection value
+Type: MEM_PRIVATE
+
+Base address: 0xd1b000
+Allocation address: 0xcb0000
+Memory protection: PAGE_READWRITE
+Region size: 610304
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0xdb0000
+Allocation address: 0xdb0000
+Memory protection: PAGE_READONLY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0xdb4000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 49152
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0xdc0000
+Allocation address: 0xdc0000
+Memory protection: PAGE_READONLY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0xdc3000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 53248
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0xdd0000
+Allocation address: 0xdd0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0xdd1000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0xde0000
+Allocation address: 0xde0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0xde1000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0xdf0000
+Allocation address: 0xdf0000
+Memory protection: PAGE_READONLY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0xdf2000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 57344
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0xe00000
+Allocation address: 0xe00000
+Memory protection: PAGE_READWRITE
+Region size: 1122304
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0xf12000
+Allocation address: 0xe00000
+Memory protection: PAGE_READWRITE
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0xf17000
+Allocation address: 0xe00000
+Memory protection: PAGE_READWRITE
+Region size: 86016
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0xf2c000
+Allocation address: 0xe00000
+Memory protection: PAGE_READWRITE
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0xf2f000
+Allocation address: 0xe00000
+Memory protection: PAGE_READWRITE
+Region size: 856064
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x1000000
+Allocation address: 0x1000000
+Memory protection: PAGE_READWRITE
+Region size: 33554432
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x3000000
+Allocation address: 0x1000000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x3001000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x3010000
+Allocation address: 0x3010000
+Memory protection: PAGE_READONLY
+Region size: 806912
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x30d5000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 110592
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x30f0000
+Allocation address: 0x30f0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x30f1000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 192512
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x3120000
+Allocation address: 0x3120000
+Memory protection: PAGE_READWRITE
+Region size: 32768
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x3128000
+Allocation address: 0x3120000
+Memory protection: PAGE_READWRITE
+Region size: 32768
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x3130000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 786432
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x31f0000
+Allocation address: 0x31f0000
+Memory protection: PAGE_READONLY
+Region size: 40960
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x31fa000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 24576
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x3200000
+Allocation address: 0x3200000
+Memory protection: PAGE_READWRITE
+Region size: 1044480
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x32ff000
+Allocation address: 0x3200000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x3300000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 3145728
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x3600000
+Allocation address: 0x3600000
+Memory protection: PAGE_READONLY
+Region size: 1576960
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x3781000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x3790000
+Allocation address: 0x3790000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_MAPPED
+
+Base address: 0x3791000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x37a0000
+Allocation address: 0x37a0000
+Memory protection: PAGE_READWRITE
+Region size: 61440
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x37af000
+Allocation address: 0x37a0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x37b0000
+Allocation address: 0x37b0000
+Memory protection: PAGE_READONLY
+Region size: 81920
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x37c4000
+Allocation address: 0x37b0000
+Memory protection: PAGE_READONLY
+Region size: 2015232
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_MAPPED
+
+Base address: 0x39b0000
+Allocation address: 0x37b0000
+Memory protection: PAGE_READONLY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x39b5000
+Allocation address: 0x37b0000
+Memory protection: PAGE_READONLY
+Region size: 12288
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_MAPPED
+
+Base address: 0x39b8000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 32768
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x39c0000
+Allocation address: 0x39c0000
+Memory protection: PAGE_READONLY
+Region size: 1089536
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x3aca000
+Allocation address: 0x39c0000
+Memory protection: PAGE_READONLY
+Region size: 19881984
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_MAPPED
+
+Base address: 0x4dc0000
+Allocation address: 0x4dc0000
+Memory protection: PAGE_READONLY
+Region size: 3371008
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x50f7000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 1085440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5200000
+Allocation address: 0x5200000
+Memory protection: PAGE_READWRITE
+Region size: 36864
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x5209000
+Allocation address: 0x5200000
+Memory protection: PAGE_READWRITE
+Region size: 1724416
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x53ae000
+Allocation address: 0x5200000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x53af000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 266240
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x53f0000
+Allocation address: 0x53f0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x53f1000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5400000
+Allocation address: 0x5400000
+Memory protection: PAGE_READONLY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x5401000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5410000
+Allocation address: 0x5410000
+Memory protection: PAGE_READWRITE
+Region size: 61440
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x541f000
+Allocation address: 0x5410000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x5420000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 2359296
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5660000
+Allocation address: 0x5660000
+Memory protection: PAGE_READONLY
+Region size: 24576
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x5666000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 40960
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5670000
+Allocation address: 0x5670000
+Memory protection: PAGE_NOACCESS
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x5671000
+Allocation address: 0x5670000
+Memory protection: PAGE_NOACCESS
+Region size: 61440
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x5680000
+Allocation address: 0x5680000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_MAPPED
+
+Base address: 0x5681000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5690000
+Allocation address: 0x5690000
+Memory protection: PAGE_READONLY
+Region size: 229376
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x56c8000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 32768
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x56d0000
+Allocation address: 0x56d0000
+Memory protection: PAGE_READONLY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x56d4000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 49152
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x56e0000
+Allocation address: 0x56e0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x56e1000
+Allocation address: 0x56e0000
+Memory protection: PAGE_READWRITE
+Region size: 53248
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x56ee000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 270336
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5730000
+Allocation address: 0x5730000
+Memory protection: PAGE_READONLY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x5731000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5740000
+Allocation address: 0x5740000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x5741000
+Allocation address: 0x5740000
+Memory protection: PAGE_READWRITE
+Region size: 53248
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x574e000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 8192
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5750000
+Allocation address: 0x5750000
+Memory protection: PAGE_READWRITE
+Region size: 32768
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x5758000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 32768
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5760000
+Allocation address: 0x5760000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x5761000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5770000
+Allocation address: 0x5770000
+Memory protection: PAGE_READONLY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x5775000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 45056
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x5780000
+Allocation address: 0x5780000
+Memory protection: PAGE_READWRITE
+Region size: 1044480
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x587f000
+Allocation address: 0x5780000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x5880000
+Allocation address: 0x5880000
+Memory protection: PAGE_READWRITE
+Region size: 1728512
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x5a26000
+Allocation address: 0x5880000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_NOACCESS
+Type: MEM_PRIVATE
+
+Base address: 0x5a27000
+Allocation address: 0x5880000
+Memory protection: PAGE_READWRITE
+Region size: 360448
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x5a7f000
+Allocation address: 0x5880000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x5a80000
+Allocation address: 0x5a80000
+Memory protection: PAGE_READONLY
+Region size: 733184
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x5b33000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 8376320
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6330000
+Allocation address: 0x6330000
+Memory protection: PAGE_READONLY
+Region size: 18612224
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x74f0000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 1048576
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x75f0000
+Allocation address: 0x75f0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x75f1000
+Allocation address: 0x75f0000
+Memory protection: PAGE_READWRITE
+Region size: 520192
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x7670000
+Allocation address: 0x7670000
+Memory protection: PAGE_READONLY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x7671000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x7680000
+Allocation address: 0x7680000
+Memory protection: PAGE_READONLY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x7681000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x7690000
+Allocation address: 0x7690000
+Memory protection: PAGE_READWRITE
+Region size: 49152
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x769c000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 16384
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76a0000
+Allocation address: 0x76a0000
+Memory protection: PAGE_READWRITE
+Region size: 49152
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x76ac000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 16384
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76b0000
+Allocation address: 0x76b0000
+Memory protection: PAGE_READWRITE
+Region size: 49152
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x76bc000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 16384
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76c0000
+Allocation address: 0x76c0000
+Memory protection: PAGE_READWRITE
+Region size: 40960
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x76ca000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 24576
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76d0000
+Allocation address: 0x76d0000
+Memory protection: PAGE_NOACCESS
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x76d1000
+Allocation address: 0x76d0000
+Memory protection: PAGE_NOACCESS
+Region size: 8384512
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x7ed0000
+Allocation address: 0x7ed0000
+Memory protection: PAGE_READWRITE
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x7ed4000
+Allocation address: 0x7ed0000
+Memory protection: PAGE_READWRITE
+Region size: 1032192
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x7fd0000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 884736
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x80a8000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_NOACCESS
+Type: MEM_PRIVATE
+
+Base address: 0x80a9000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 303104
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x80f3000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_NOACCESS
+Type: MEM_PRIVATE
+
+Base address: 0x80f4000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 184320
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x8121000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_NOACCESS
+Type: MEM_PRIVATE
+
+Base address: 0x8122000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 524288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x81a2000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_NOACCESS
+Type: MEM_PRIVATE
+
+Base address: 0x81a3000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 811008
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x8269000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_NOACCESS
+Type: MEM_PRIVATE
+
+Base address: 0x826a000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 69632
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x827b000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_NOACCESS
+Type: MEM_PRIVATE
+
+Base address: 0x827c000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 393216
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x82dc000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_NOACCESS
+Type: MEM_PRIVATE
+
+Base address: 0x82dd000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 360448
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x8335000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_NOACCESS
+Type: MEM_PRIVATE
+
+Base address: 0x8336000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 311296
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x8382000
+Allocation address: 0x7fd0000
+Memory protection: PAGE_READWRITE
+Region size: 319488
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x83d0000
+Allocation address: 0x83d0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x83d1000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x83e0000
+Allocation address: 0x83e0000
+Memory protection: PAGE_READWRITE
+Region size: 217088
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x8415000
+Allocation address: 0x83e0000
+Memory protection: PAGE_READWRITE
+Region size: 12288
+State: MEM_COMMIT
+Protect: Unknown memory protection value
+Type: MEM_PRIVATE
+
+Base address: 0x8418000
+Allocation address: 0x83e0000
+Memory protection: PAGE_READWRITE
+Region size: 32768
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x8420000
+Allocation address: 0x8420000
+Memory protection: PAGE_READWRITE
+Region size: 897024
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Base address: 0x84fb000
+Allocation address: 0x8420000
+Memory protection: PAGE_READWRITE
+Region size: 8192
+State: MEM_COMMIT
+Protect: Unknown memory protection value
+Type: MEM_PRIVATE
+
+Base address: 0x84fd000
+Allocation address: 0x8420000
+Memory protection: PAGE_READWRITE
+Region size: 143360
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x8520000
+Allocation address: 0x8520000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Base address: 0x8521000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 128839680
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x10000000
+Allocation address: 0x10000000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x10001000
+Allocation address: 0x10000000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x10003000
+Allocation address: 0x10000000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x10004000
+Allocation address: 0x10000000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x10005000
+Allocation address: 0x10000000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x10007000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 1145475072
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x54470000
+Allocation address: 0x54470000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x54471000
+Allocation address: 0x54470000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 81920
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x54485000
+Allocation address: 0x54470000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 32768
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x5448d000
+Allocation address: 0x54470000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x54491000
+Allocation address: 0x54470000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x54494000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 49152
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x544a0000
+Allocation address: 0x544a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x544a1000
+Allocation address: 0x544a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 57344
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x544af000
+Allocation address: 0x544a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 24576
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x544b5000
+Allocation address: 0x544a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x544b9000
+Allocation address: 0x544a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x544bc000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 16384
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x544c0000
+Allocation address: 0x544c0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x544c1000
+Allocation address: 0x544c0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 872448
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x54596000
+Allocation address: 0x544c0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 126976
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x545b5000
+Allocation address: 0x544c0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x545b7000
+Allocation address: 0x544c0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x545b8000
+Allocation address: 0x544c0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x545bb000
+Allocation address: 0x544c0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 40960
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x545c5000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 18329600
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x55740000
+Allocation address: 0x55740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x55741000
+Allocation address: 0x55740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1400832
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x55897000
+Allocation address: 0x55740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x55899000
+Allocation address: 0x55740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 86016
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x558ae000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 283385856
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x666f0000
+Allocation address: 0x666f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x666f1000
+Allocation address: 0x666f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1126400
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x66804000
+Allocation address: 0x666f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x66805000
+Allocation address: 0x666f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x66806000
+Allocation address: 0x666f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x66808000
+Allocation address: 0x666f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 114688
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x66824000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 49152
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x66830000
+Allocation address: 0x66830000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x66831000
+Allocation address: 0x66830000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 454656
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x668a0000
+Allocation address: 0x66830000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x668a3000
+Allocation address: 0x66830000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 131072
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x668c3000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 42127360
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x690f0000
+Allocation address: 0x690f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x690f1000
+Allocation address: 0x690f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x690f4000
+Allocation address: 0x690f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x690f5000
+Allocation address: 0x690f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x690f6000
+Allocation address: 0x690f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x690f7000
+Allocation address: 0x690f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x690f8000
+Allocation address: 0x690f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x690fa000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 24576
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x69100000
+Allocation address: 0x69100000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x69101000
+Allocation address: 0x69100000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 208896
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x69134000
+Allocation address: 0x69100000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 81920
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x69148000
+Allocation address: 0x69100000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x69149000
+Allocation address: 0x69100000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 32768
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x69151000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x69160000
+Allocation address: 0x69160000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x69161000
+Allocation address: 0x69160000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 245760
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6919d000
+Allocation address: 0x69160000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 159744
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x691c4000
+Allocation address: 0x69160000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x691c5000
+Allocation address: 0x69160000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x691c6000
+Allocation address: 0x69160000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x691c7000
+Allocation address: 0x69160000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 61440
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x691d6000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 40960
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x691e0000
+Allocation address: 0x691e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x691e1000
+Allocation address: 0x691e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 2142208
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x693ec000
+Allocation address: 0x691e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x693ee000
+Allocation address: 0x691e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x693ef000
+Allocation address: 0x691e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x693f0000
+Allocation address: 0x691e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x693f4000
+Allocation address: 0x691e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 172032
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6941e000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 8192
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x69420000
+Allocation address: 0x69420000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x69421000
+Allocation address: 0x69420000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1306624
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x69560000
+Allocation address: 0x69420000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 602112
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x695f3000
+Allocation address: 0x69420000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x695f6000
+Allocation address: 0x69420000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 385024
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x69654000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 18006016
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6a780000
+Allocation address: 0x6a780000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6a781000
+Allocation address: 0x6a780000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 917504
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6a861000
+Allocation address: 0x6a780000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6a864000
+Allocation address: 0x6a780000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x6a866000
+Allocation address: 0x6a780000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6a867000
+Allocation address: 0x6a780000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 94208
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6a87e000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 29499392
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6c4a0000
+Allocation address: 0x6c4a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6c4a1000
+Allocation address: 0x6c4a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 372736
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6c4fc000
+Allocation address: 0x6c4a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 110592
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6c517000
+Allocation address: 0x6c4a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6c519000
+Allocation address: 0x6c4a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 77824
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6c52c000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 4538368
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6c980000
+Allocation address: 0x6c980000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6c981000
+Allocation address: 0x6c980000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1335296
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6cac7000
+Allocation address: 0x6c980000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6cac9000
+Allocation address: 0x6c980000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x6caca000
+Allocation address: 0x6c980000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6cacd000
+Allocation address: 0x6c980000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 122880
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x6caeb000
+Allocation address: 0x6c980000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 90112
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6cb01000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 1830912
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6ccc0000
+Allocation address: 0x6ccc0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6ccc1000
+Allocation address: 0x6ccc0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6ccc3000
+Allocation address: 0x6ccc0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6ccc4000
+Allocation address: 0x6ccc0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6ccc8000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 8552448
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6d4f0000
+Allocation address: 0x6d4f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6d4f1000
+Allocation address: 0x6d4f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 434176
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6d55b000
+Allocation address: 0x6d4f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6d55d000
+Allocation address: 0x6d4f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x6d55e000
+Allocation address: 0x6d4f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 45056
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6d569000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 94208
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6d580000
+Allocation address: 0x6d580000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6d581000
+Allocation address: 0x6d580000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 438272
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6d5ec000
+Allocation address: 0x6d580000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6d5ee000
+Allocation address: 0x6d580000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 36864
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6d5f7000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 5541888
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6db40000
+Allocation address: 0x6db40000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6db41000
+Allocation address: 0x6db40000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1732608
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6dce8000
+Allocation address: 0x6db40000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6dcea000
+Allocation address: 0x6db40000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x6dceb000
+Allocation address: 0x6db40000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 417792
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6dd51000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 389120
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6ddb0000
+Allocation address: 0x6ddb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6ddb1000
+Allocation address: 0x6ddb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 77824
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6ddc4000
+Allocation address: 0x6ddb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6ddc5000
+Allocation address: 0x6ddb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6ddca000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 2711552
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6e060000
+Allocation address: 0x6e060000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6e061000
+Allocation address: 0x6e060000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 720896
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6e111000
+Allocation address: 0x6e060000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6e112000
+Allocation address: 0x6e060000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 102400
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6e12b000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 23744512
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6f7d0000
+Allocation address: 0x6f7d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6f7d1000
+Allocation address: 0x6f7d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 139264
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6f7f3000
+Allocation address: 0x6f7d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6f7f4000
+Allocation address: 0x6f7d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 147456
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6f818000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 32768
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6f820000
+Allocation address: 0x6f820000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6f821000
+Allocation address: 0x6f820000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 86016
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6f836000
+Allocation address: 0x6f820000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6f837000
+Allocation address: 0x6f820000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x6f839000
+Allocation address: 0x6f820000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 40960
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6f843000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 1363968
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x6f990000
+Allocation address: 0x6f990000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6f991000
+Allocation address: 0x6f990000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x6f992000
+Allocation address: 0x6f990000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x6f993000
+Allocation address: 0x6f990000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x6f996000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 17801216
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x70a90000
+Allocation address: 0x70a90000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x70a91000
+Allocation address: 0x70a90000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 180224
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x70abd000
+Allocation address: 0x70a90000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x70abf000
+Allocation address: 0x70a90000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 28672
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x70ac6000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 40960
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x70ad0000
+Allocation address: 0x70ad0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x70ad1000
+Allocation address: 0x70ad0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 65536
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x70ae1000
+Allocation address: 0x70ad0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x70ae2000
+Allocation address: 0x70ad0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x70ae6000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 106496
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x70b00000
+Allocation address: 0x70b00000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x70b01000
+Allocation address: 0x70b00000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 708608
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x70bae000
+Allocation address: 0x70b00000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x70baf000
+Allocation address: 0x70b00000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 831488
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x70c7a000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 15360000
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x71b20000
+Allocation address: 0x71b20000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x71b21000
+Allocation address: 0x71b20000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 143360
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x71b44000
+Allocation address: 0x71b20000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x71b45000
+Allocation address: 0x71b20000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 40960
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x71b4f000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 4096
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x71b50000
+Allocation address: 0x71b50000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x71b51000
+Allocation address: 0x71b50000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 53248
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x71b5e000
+Allocation address: 0x71b50000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x71b5f000
+Allocation address: 0x71b50000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x71b63000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 12767232
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x72790000
+Allocation address: 0x72790000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x72791000
+Allocation address: 0x72790000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 126976
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x727b0000
+Allocation address: 0x72790000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x727b1000
+Allocation address: 0x72790000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x727b2000
+Allocation address: 0x72790000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 24576
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x727b8000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 5144576
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x72ca0000
+Allocation address: 0x72ca0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x72ca1000
+Allocation address: 0x72ca0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x72ca4000
+Allocation address: 0x72ca0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x72ca5000
+Allocation address: 0x72ca0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x72ca8000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 6782976
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x73320000
+Allocation address: 0x73320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x73321000
+Allocation address: 0x73320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 77824
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x73334000
+Allocation address: 0x73320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x73335000
+Allocation address: 0x73320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x73339000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 19165184
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x74580000
+Allocation address: 0x74580000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x74581000
+Allocation address: 0x74580000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 487424
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x745f8000
+Allocation address: 0x74580000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x745fa000
+Allocation address: 0x74580000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 131072
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x7461a000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 24576
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x74620000
+Allocation address: 0x74620000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x74621000
+Allocation address: 0x74620000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x74625000
+Allocation address: 0x74620000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x74626000
+Allocation address: 0x74620000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x7462a000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 24576
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x74630000
+Allocation address: 0x74630000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x74631000
+Allocation address: 0x74630000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 102400
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x7464a000
+Allocation address: 0x74630000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x7464b000
+Allocation address: 0x74630000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x74650000
+Allocation address: 0x74650000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x74651000
+Allocation address: 0x74650000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 5115904
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x74b32000
+Allocation address: 0x74650000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x74b37000
+Allocation address: 0x74650000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x74b39000
+Allocation address: 0x74650000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 14983168
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75983000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 446464
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x759f0000
+Allocation address: 0x759f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x759f1000
+Allocation address: 0x759f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 835584
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x75abd000
+Allocation address: 0x759f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x75abe000
+Allocation address: 0x759f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x75abf000
+Allocation address: 0x759f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 163840
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75ae7000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 36864
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x75af0000
+Allocation address: 0x75af0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75af1000
+Allocation address: 0x75af0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 53248
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x75afe000
+Allocation address: 0x75af0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x75aff000
+Allocation address: 0x75af0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75b04000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 704512
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x75bb0000
+Allocation address: 0x75bb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75bb1000
+Allocation address: 0x75bb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 417792
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x75c17000
+Allocation address: 0x75bb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x75c18000
+Allocation address: 0x75bb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x75c19000
+Allocation address: 0x75bb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x75c1b000
+Allocation address: 0x75bb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 53248
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75c28000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 32768
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x75c30000
+Allocation address: 0x75c30000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75c31000
+Allocation address: 0x75c30000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 2121728
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x75e37000
+Allocation address: 0x75c30000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x75e3b000
+Allocation address: 0x75c30000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 241664
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75e76000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 40960
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x75e80000
+Allocation address: 0x75e80000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75e81000
+Allocation address: 0x75e80000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 65536
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x75e91000
+Allocation address: 0x75e80000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x75e92000
+Allocation address: 0x75e80000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x75e93000
+Allocation address: 0x75e80000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 24576
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75e99000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 28672
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x75ea0000
+Allocation address: 0x75ea0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75ea1000
+Allocation address: 0x75ea0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 241664
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x75edc000
+Allocation address: 0x75ea0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x75edd000
+Allocation address: 0x75ea0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 36864
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75ee6000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 40960
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x75ef0000
+Allocation address: 0x75ef0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75ef1000
+Allocation address: 0x75ef0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 524288
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x75f71000
+Allocation address: 0x75ef0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x75f74000
+Allocation address: 0x75ef0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x75f75000
+Allocation address: 0x75ef0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 323584
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75fc4000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 49152
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x75fd0000
+Allocation address: 0x75fd0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75fd1000
+Allocation address: 0x75fd0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 24576
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x75fd7000
+Allocation address: 0x75fd0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x75fd8000
+Allocation address: 0x75fd0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 24576
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75fde000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 8192
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x75fe0000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x75fe1000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 61440
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_IMAGE
+
+Base address: 0x75ff0000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 389120
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x7604f000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_IMAGE
+
+Base address: 0x76050000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 159744
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76077000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 36864
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_IMAGE
+
+Base address: 0x76080000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x76081000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 61440
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_IMAGE
+
+Base address: 0x76090000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76091000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 61440
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_IMAGE
+
+Base address: 0x760a0000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x760a5000
+Allocation address: 0x75fe0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 45056
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_IMAGE
+
+Base address: 0x760b0000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 851968
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76180000
+Allocation address: 0x76180000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76181000
+Allocation address: 0x76180000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1277952
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x762b9000
+Allocation address: 0x76180000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x762bc000
+Allocation address: 0x76180000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 139264
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x762de000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 8192
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x762e0000
+Allocation address: 0x762e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x762e1000
+Allocation address: 0x762e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 196608
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x76311000
+Allocation address: 0x762e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x76312000
+Allocation address: 0x762e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 24576
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76318000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 32768
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76320000
+Allocation address: 0x76320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76321000
+Allocation address: 0x76320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 704512
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x763cd000
+Allocation address: 0x76320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x763ce000
+Allocation address: 0x76320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 65536
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x763de000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 401408
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76440000
+Allocation address: 0x76440000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76441000
+Allocation address: 0x76440000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 491520
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x764b9000
+Allocation address: 0x76440000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x764ba000
+Allocation address: 0x76440000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 57344
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x764c8000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 32768
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x764d0000
+Allocation address: 0x764d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x764d1000
+Allocation address: 0x764d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 69632
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x764e2000
+Allocation address: 0x764d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x764e3000
+Allocation address: 0x764d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x764e6000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 40960
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x764f0000
+Allocation address: 0x764f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x764f1000
+Allocation address: 0x764f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 716800
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x765a0000
+Allocation address: 0x764f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x765a2000
+Allocation address: 0x764f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x765a6000
+Allocation address: 0x764f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 28672
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x765ad000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 12288
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x765b0000
+Allocation address: 0x765b0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x765b1000
+Allocation address: 0x765b0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 86016
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x765c6000
+Allocation address: 0x765b0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x765c7000
+Allocation address: 0x765b0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 188416
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x765f5000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 45056
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76600000
+Allocation address: 0x76600000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76601000
+Allocation address: 0x76600000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 466944
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x76673000
+Allocation address: 0x76600000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x76677000
+Allocation address: 0x76600000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 45056
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76682000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 57344
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76690000
+Allocation address: 0x76690000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76691000
+Allocation address: 0x76690000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 36864
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x7669a000
+Allocation address: 0x76690000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x7669b000
+Allocation address: 0x76690000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x7669e000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 1515520
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76810000
+Allocation address: 0x76810000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76811000
+Allocation address: 0x76810000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1716224
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x769b4000
+Allocation address: 0x76810000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x769b8000
+Allocation address: 0x76810000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 192512
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x769e7000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 36864
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x769f0000
+Allocation address: 0x769f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x769f1000
+Allocation address: 0x769f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 458752
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x76a61000
+Allocation address: 0x769f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Base address: 0x76a62000
+Allocation address: 0x769f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x76a64000
+Allocation address: 0x769f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 32768
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76a6c000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 16384
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76a70000
+Allocation address: 0x76a70000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76a71000
+Allocation address: 0x76a70000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 102400
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x76a8a000
+Allocation address: 0x76a70000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x76a8b000
+Allocation address: 0x76a70000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 28672
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76a92000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 4513792
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x76ee0000
+Allocation address: 0x76ee0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x76ee1000
+Allocation address: 0x76ee0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 966656
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x76fcd000
+Allocation address: 0x76ee0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x76fd0000
+Allocation address: 0x76ee0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 344064
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77024000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 49152
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x77030000
+Allocation address: 0x77030000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77031000
+Allocation address: 0x77030000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 225280
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x77068000
+Allocation address: 0x77030000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x7706b000
+Allocation address: 0x77030000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 32768
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77073000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 53248
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x77080000
+Allocation address: 0x77080000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77081000
+Allocation address: 0x77080000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1073152
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x77187000
+Allocation address: 0x77080000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x77189000
+Allocation address: 0x77080000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 57344
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77197000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 36864
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x771a0000
+Allocation address: 0x771a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x771a1000
+Allocation address: 0x771a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 528384
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x77222000
+Allocation address: 0x771a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x77224000
+Allocation address: 0x771a0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 987136
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77315000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 45056
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x77320000
+Allocation address: 0x77320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77321000
+Allocation address: 0x77320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 962560
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x7740c000
+Allocation address: 0x77320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x77410000
+Allocation address: 0x77320000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 598016
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x774a2000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 57344
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x774b0000
+Allocation address: 0x774b0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x774b1000
+Allocation address: 0x774b0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 102400
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x774ca000
+Allocation address: 0x774b0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x774cb000
+Allocation address: 0x774b0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 40960
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x774d5000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 110592
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x774f0000
+Allocation address: 0x774f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x774f1000
+Allocation address: 0x774f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 5591040
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x77a46000
+Allocation address: 0x774f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x77a4b000
+Allocation address: 0x774f0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 438272
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77ab6000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 40960
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x77ac0000
+Allocation address: 0x77ac0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77ac1000
+Allocation address: 0x77ac0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 331776
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x77b12000
+Allocation address: 0x77ac0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x77b13000
+Allocation address: 0x77ac0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77b17000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 36864
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x77b20000
+Allocation address: 0x77b20000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77b21000
+Allocation address: 0x77b20000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 237568
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x77b5b000
+Allocation address: 0x77b20000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x77b5c000
+Allocation address: 0x77b20000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 36864
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77b65000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 45056
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x77b70000
+Allocation address: 0x77b70000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77b71000
+Allocation address: 0x77b70000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 540672
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x77bf5000
+Allocation address: 0x77b70000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x77bf7000
+Allocation address: 0x77b70000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 49152
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77c03000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 53248
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x77c10000
+Allocation address: 0x77c10000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77c11000
+Allocation address: 0x77c10000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1130496
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Base address: 0x77d25000
+Allocation address: 0x77c10000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Base address: 0x77d29000
+Allocation address: 0x77c10000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 475136
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Base address: 0x77d9d000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 124530688
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x7f460000
+Allocation address: 0x7f460000
+Memory protection: PAGE_READONLY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x7f465000
+Allocation address: 0x7f460000
+Memory protection: PAGE_READONLY
+Region size: 1028096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_MAPPED
+
+Base address: 0x7f560000
+Allocation address: 0x7f560000
+Memory protection: PAGE_READONLY
+Region size: 143360
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Base address: 0x7f583000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 10866688
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Base address: 0x7ffe0000
+Allocation address: 0x7ffe0000
+Memory protection: PAGE_READONLY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_PRIVATE
+
+Base address: 0x7ffe1000
+Allocation address: 0x7ffe1000
+Memory protection: PAGE_READONLY
+Region size: 61440
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+VirtualQueryEx failed, so mapping is finished - error - 87
+
+Summary
+-------------------
+Number of virtual pages: 554
+Total region size: 0x7fff0000
