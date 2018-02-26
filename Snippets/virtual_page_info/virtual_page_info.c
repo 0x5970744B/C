@@ -3,7 +3,7 @@
  * Description: A simple code snippet to map out the memory pages of a process and print out information about each individual memory page and a summary of the memory pages
  *
  * Author: Timothy Gan Z.
- * Version: 0.0.1
+ * Version: 0.0.2
  * Date: 26 Feb 2018
  *
  * Compilation: gcc virtual_page_info.c -o virtual_page_info.exe -lpsapi
