@@ -133,14 +133,14 @@ char* stateConstant_int2str(DWORD state){
 }
 
 /**
- * Function: mapVirtualPages
+ * Function: mapMemoryPages
  * 
- * Description: Get the process handle and map out all virtual pages which we can write to using VirtualQueryEx, creating a linked list memory block structure based on the mapped data
+ * Description: Get the process handle and map out all memory pages which we can write to using VirtualQueryEx, creating a linked list memory block structure based on the mapped data
  *
  * Input:
  *   pid - the process identifier to be scanned
  */
-MEMBLOCK* mapVirtualPages (unsigned int pid)
+MEMBLOCK* mapMemoryPages (unsigned int pid)
 {
     MEMBLOCK *mb_list = NULL;
     MEMORY_BASIC_INFORMATION meminfo;
@@ -226,7 +226,7 @@ int main(int argc, char *argv[]){
   }
   
   // Print data on the memory pages in the requested process
-  mapVirtualPages(processId);
+  mapMemoryPages(processId);
   
   return 0;
 }
