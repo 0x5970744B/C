@@ -1,6 +1,6 @@
 /*
  * virtual_page_info.c
- * Description: A simple code snippet to map out the virtual pages of a process and print out information about each individual virtual page and a summary of the virtual pages
+ * Description: A simple code snippet to map out the memory pages of a process and print out information about each individual memory page and a summary of the memory pages
  *
  * Author: Timothy Gan Z.
  * Version: 0.0.1
@@ -39,7 +39,7 @@ typedef struct _MEMBLOCK
 /**
  * Function: create_memblock
  * 
- * Description: Creates an individual block of memory that stores data of each individual virtual page. This function was a cut&paste from the memory scanner code, and then cut down to remove unused portions. Over here we do not actually currently need to use a separately created memory block, but we continue to do so as in the future a linked list is likely to be used.
+ * Description: Creates an individual block of memory that stores data of each individual memory page. This function was a cut&paste from the memory scanner code, and then cut down to remove unused portions. Over here we do not actually currently need to use a separately created memory block, but we continue to do so as in the future a linked list is likely to be used.
  *
  * Input:
  *   hProc - process handle of the process this memory block is in
@@ -162,7 +162,7 @@ MEMBLOCK* mapMemoryPages (unsigned int pid)
             {
                 printf("VirtualQueryEx failed, so mapping is finished - error - %d\r\n", GetLastError());
                 printf("\nSummary\n-------------------\n");
-                printf("Number of virtual pages: %d\n", numVirtualPages);
+                printf("Number of memory pages: %d\n", numVirtualPages);
                 printf("Total region size: 0x%x\n", totalRegionSize);
                 break;
             }
