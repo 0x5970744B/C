@@ -225,7 +225,7 @@ int main(int argc, char *argv[]){
     return 3;
   }
   
-  // Print the hexadecimal data in the memory address
+  // Print data on the memory pages in the requested process
   mapVirtualPages(processId);
   
   return 0;
