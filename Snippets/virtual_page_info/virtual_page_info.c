@@ -6,13 +6,25 @@
  * Version: 0.0.1
  * Date: 26 Feb 2018
  *
+ * Compilation: gcc virtual_page_info.c -o virtual_page_info.exe -lpsapi
+ * Compilation notes:
+ * --- Compiled using mingw's gcc, not sure if lpsapi flag is only available in mingw
+ * --- Ignored MSDN compilation suggestion to link Psapi.lib as it looks so much more troublesome. The -lpsapi flag solves the issue.
+ *
  * Run format: virtual_page_info.exe <pid>
  * Example run:	virtual_page_info.exe
+ *
+ * * Tested working on:
+ * --- Windows 10 64-bit
+ * --- Note: This program should be tested on <Win7 to ensure the psapi library is linked correctly. This was compiled on Windows 10, which has PSAPI version 2. We should test running this on a system with PSAPI version 1 as well to ensure it works across all systems. 
  */
 
 #include <stdio.h>
 #include <windows.h>
 #include <limits.h>
+
+//GetMappedFileName()
+#include <Psapi.h>
 
 // Memory structure of each memory block found using VirtualQueryEx
 typedef struct _MEMBLOCK
@@ -159,12 +171,18 @@ MEMBLOCK* mapVirtualPages (unsigned int pid)
             numVirtualPages++;
             totalRegionSize += meminfo.RegionSize;
             
+            // find the memory mapped file name, if any (this will happen when the the memory is not in virtual memory, but is temporarily residing in a memory mapped file) --- see https://msdn.microsoft.com/en-us/library/ms810627.aspx for more information
+            unsigned char fileNameBuffer[260]; // MAX_PATH = 260 characters, see https://msdn.microsoft.com/en-us/library/aa365247.aspx
+            memset(fileNameBuffer, 0, sizeof(fileNameBuffer));
+            GetMappedFileName(hProc, meminfo.BaseAddress, fileNameBuffer, sizeof(fileNameBuffer));
+
             MEMBLOCK *mb = create_memblock (hProc, &meminfo);
             if (mb){
                 mb->next = mb_list;
                 mb_list = mb;
             }
             addr = (unsigned char*)meminfo.BaseAddress + meminfo.RegionSize;
+            printf("Filename: %s\n", fileNameBuffer);
             printf("Base address: 0x%x\n", meminfo.BaseAddress);
             printf("Allocation address: 0x%x\n", meminfo.AllocationBase);
             printf("Memory protection: %s\n", memoryProtectionConstant_int2str(meminfo.AllocationProtect));
@@ -207,7 +225,7 @@ int main(int argc, char *argv[]){
     return 3;
   }
   
-  // Print data on the virtual pages in the requested process
+  // Print the hexadecimal data in the memory address
   mapVirtualPages(processId);
   
   return 0;

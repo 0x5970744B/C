@@ -1,124 +1,32 @@
+Filename: 
 Base address: 0x0
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 2228224
+Region size: 3604480
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x220000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x221000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 1404928
-State: MEM_COMMIT
-Protect: PAGE_EXECUTE_READ
-Type: MEM_IMAGE
-
-Base address: 0x378000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 389120
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x3d7000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x3d8000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_WRITECOPY
-Type: MEM_IMAGE
-
-Base address: 0x3d9000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 12288
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x3dc000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 8192
-State: MEM_COMMIT
-Protect: PAGE_WRITECOPY
-Type: MEM_IMAGE
-
-Base address: 0x3de000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x3df000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 61440
-State: MEM_COMMIT
-Protect: PAGE_WRITECOPY
-Type: MEM_IMAGE
-
-Base address: 0x3ee000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 20480
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x3f3000
-Allocation address: 0x220000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 638976
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x48f000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 7933952
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0xc20000
-Allocation address: 0xc20000
+Filename: 
+Base address: 0x370000
+Allocation address: 0x370000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0xc21000
-Allocation address: 0xc20000
+Filename: 
+Base address: 0x371000
+Allocation address: 0x370000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0xc22000
+Filename: 
+Base address: 0x372000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 57344
@@ -126,31 +34,35 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0xc30000
-Allocation address: 0xc30000
+Filename: 
+Base address: 0x380000
+Allocation address: 0x380000
 Memory protection: PAGE_READWRITE
 Region size: 65536
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_MAPPED
 
-Base address: 0xc40000
-Allocation address: 0xc40000
+Filename: 
+Base address: 0x390000
+Allocation address: 0x390000
 Memory protection: PAGE_READWRITE
 Region size: 12288
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0xc43000
-Allocation address: 0xc40000
+Filename: 
+Base address: 0x393000
+Allocation address: 0x390000
 Memory protection: PAGE_READWRITE
 Region size: 45056
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0xc4e000
+Filename: 
+Base address: 0x39e000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 8192
@@ -158,15 +70,17 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0xc50000
-Allocation address: 0xc50000
+Filename: 
+Base address: 0x3a0000
+Allocation address: 0x3a0000
 Memory protection: PAGE_READONLY
 Region size: 102400
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0xc69000
+Filename: 
+Base address: 0x3b9000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 28672
@@ -174,63 +88,116 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0xc70000
-Allocation address: 0xc70000
+Filename: 
+Base address: 0x3c0000
+Allocation address: 0x3c0000
 Memory protection: PAGE_READWRITE
 Region size: 176128
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0xc9b000
-Allocation address: 0xc70000
+Filename: 
+Base address: 0x3eb000
+Allocation address: 0x3c0000
 Memory protection: PAGE_READWRITE
 Region size: 12288
 State: MEM_COMMIT
 Protect: Unknown memory protection value
 Type: MEM_PRIVATE
 
-Base address: 0xc9e000
-Allocation address: 0xc70000
+Filename: 
+Base address: 0x3ee000
+Allocation address: 0x3c0000
 Memory protection: PAGE_READWRITE
 Region size: 73728
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0xcb0000
-Allocation address: 0xcb0000
+Filename: 
+Base address: 0x400000
+Allocation address: 0x400000
 Memory protection: PAGE_READWRITE
-Region size: 430080
+Region size: 864256
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0xd19000
-Allocation address: 0xcb0000
+Filename: 
+Base address: 0x4d3000
+Allocation address: 0x400000
+Memory protection: PAGE_READWRITE
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x4d8000
+Allocation address: 0x400000
+Memory protection: PAGE_READWRITE
+Region size: 86016
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x4ed000
+Allocation address: 0x400000
+Memory protection: PAGE_READWRITE
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x4f0000
+Allocation address: 0x400000
+Memory protection: PAGE_READWRITE
+Region size: 1114112
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x600000
+Allocation address: 0x600000
+Memory protection: PAGE_READWRITE
+Region size: 434176
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x66a000
+Allocation address: 0x600000
 Memory protection: PAGE_READWRITE
 Region size: 8192
 State: MEM_COMMIT
 Protect: Unknown memory protection value
 Type: MEM_PRIVATE
 
-Base address: 0xd1b000
-Allocation address: 0xcb0000
+Filename: 
+Base address: 0x66c000
+Allocation address: 0x600000
 Memory protection: PAGE_READWRITE
-Region size: 610304
+Region size: 606208
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0xdb0000
-Allocation address: 0xdb0000
+Filename: 
+Base address: 0x700000
+Allocation address: 0x700000
 Memory protection: PAGE_READONLY
 Region size: 16384
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0xdb4000
+Filename: 
+Base address: 0x704000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 49152
@@ -238,15 +205,17 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0xdc0000
-Allocation address: 0xdc0000
+Filename: 
+Base address: 0x710000
+Allocation address: 0x710000
 Memory protection: PAGE_READONLY
 Region size: 12288
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0xdc3000
+Filename: 
+Base address: 0x713000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 53248
@@ -254,15 +223,53 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0xdd0000
-Allocation address: 0xdd0000
+Filename: 
+Base address: 0x720000
+Allocation address: 0x720000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0xdd1000
+Filename: 
+Base address: 0x721000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 323584
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x770000
+Allocation address: 0x770000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x771000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 258048
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x7b0000
+Allocation address: 0x7b0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x7b1000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 61440
@@ -270,31 +277,17 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0xde0000
-Allocation address: 0xde0000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0xde1000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 61440
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0xdf0000
-Allocation address: 0xdf0000
+Filename: 
+Base address: 0x7c0000
+Allocation address: 0x7c0000
 Memory protection: PAGE_READONLY
 Region size: 8192
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0xdf2000
+Filename: 
+Base address: 0x7c2000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 57344
@@ -302,135 +295,71 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0xe00000
-Allocation address: 0xe00000
+Filename: 
+Base address: 0x7d0000
+Allocation address: 0x7d0000
 Memory protection: PAGE_READWRITE
-Region size: 1122304
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0xf12000
-Allocation address: 0xe00000
-Memory protection: PAGE_READWRITE
-Region size: 20480
+Region size: 61440
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0xf17000
-Allocation address: 0xe00000
-Memory protection: PAGE_READWRITE
-Region size: 86016
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0xf2c000
-Allocation address: 0xe00000
-Memory protection: PAGE_READWRITE
-Region size: 12288
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0xf2f000
-Allocation address: 0xe00000
-Memory protection: PAGE_READWRITE
-Region size: 856064
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0x1000000
-Allocation address: 0x1000000
-Memory protection: PAGE_READWRITE
-Region size: 33554432
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0x3000000
-Allocation address: 0x1000000
+Filename: 
+Base address: 0x7df000
+Allocation address: 0x7d0000
 Memory protection: PAGE_READWRITE
 Region size: 4096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x7e0000
+Allocation address: 0x7e0000
+Memory protection: PAGE_READWRITE
+Region size: 28672
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x3001000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 61440
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
+Filename: 
+Base address: 0x7e7000
+Allocation address: 0x7e0000
+Memory protection: PAGE_READWRITE
+Region size: 36864
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
 
-Base address: 0x3010000
-Allocation address: 0x3010000
+Filename: \Device\HarddiskVolume3\Windows\System32\locale.nls
+Base address: 0x7f0000
+Allocation address: 0x7f0000
 Memory protection: PAGE_READONLY
 Region size: 806912
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x30d5000
+Filename: 
+Base address: 0x8b5000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 110592
+Region size: 569344
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x30f0000
-Allocation address: 0x30f0000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x30f1000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 192512
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x3120000
-Allocation address: 0x3120000
-Memory protection: PAGE_READWRITE
-Region size: 32768
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x3128000
-Allocation address: 0x3120000
-Memory protection: PAGE_READWRITE
-Region size: 32768
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0x3130000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 786432
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x31f0000
-Allocation address: 0x31f0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\en-US\crypt32.dll.mui
+Base address: 0x940000
+Allocation address: 0x940000
 Memory protection: PAGE_READONLY
 Region size: 40960
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x31fa000
+Filename: 
+Base address: 0x94a000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 24576
@@ -438,23 +367,44 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x3200000
-Allocation address: 0x3200000
+Filename: 
+Base address: 0x950000
+Allocation address: 0x950000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_MAPPED
+
+Filename: 
+Base address: 0x951000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 323584
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x9a0000
+Allocation address: 0x9a0000
 Memory protection: PAGE_READWRITE
 Region size: 1044480
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x32ff000
-Allocation address: 0x3200000
+Filename: 
+Base address: 0xa9f000
+Allocation address: 0x9a0000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0x3300000
+Filename: 
+Base address: 0xaa0000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 3145728
@@ -462,87 +412,44 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x3600000
-Allocation address: 0x3600000
+Filename: 
+Base address: 0xda0000
+Allocation address: 0xda0000
 Memory protection: PAGE_READONLY
-Region size: 1576960
+Region size: 73728
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x3781000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 61440
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x3790000
-Allocation address: 0x3790000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_MAPPED
-
-Base address: 0x3791000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 61440
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x37a0000
-Allocation address: 0x37a0000
-Memory protection: PAGE_READWRITE
-Region size: 61440
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x37af000
-Allocation address: 0x37a0000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0x37b0000
-Allocation address: 0x37b0000
+Filename: 
+Base address: 0xdb2000
+Allocation address: 0xda0000
 Memory protection: PAGE_READONLY
-Region size: 81920
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_MAPPED
-
-Base address: 0x37c4000
-Allocation address: 0x37b0000
-Memory protection: PAGE_READONLY
-Region size: 2015232
+Region size: 2023424
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_MAPPED
 
-Base address: 0x39b0000
-Allocation address: 0x37b0000
+Filename: 
+Base address: 0xfa0000
+Allocation address: 0xda0000
 Memory protection: PAGE_READONLY
 Region size: 20480
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x39b5000
-Allocation address: 0x37b0000
+Filename: 
+Base address: 0xfa5000
+Allocation address: 0xda0000
 Memory protection: PAGE_READONLY
 Region size: 12288
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_MAPPED
 
-Base address: 0x39b8000
+Filename: 
+Base address: 0xfa8000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 32768
@@ -550,31 +457,404 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x39c0000
-Allocation address: 0x39c0000
+Filename: 
+Base address: 0xfb0000
+Allocation address: 0xfb0000
 Memory protection: PAGE_READONLY
-Region size: 1089536
+Region size: 1576960
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x3aca000
-Allocation address: 0x39c0000
+Filename: 
+Base address: 0x1131000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 323584
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x1180000
+Allocation address: 0x1180000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x1181000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x1190000
+Allocation address: 0x1190000
 Memory protection: PAGE_READONLY
-Region size: 19881984
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Filename: 
+Base address: 0x1191000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: \Device\HarddiskVolume3\Windows\Registration\R00000000000d.clb
+Base address: 0x11a0000
+Allocation address: 0x11a0000
+Memory protection: PAGE_READONLY
+Region size: 24576
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Filename: 
+Base address: 0x11a6000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 40960
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x11b0000
+Allocation address: 0x11b0000
+Memory protection: PAGE_NOACCESS
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x11b1000
+Allocation address: 0x11b0000
+Memory protection: PAGE_NOACCESS
+Region size: 61440
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x11c0000
+Allocation address: 0x11c0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_MAPPED
+
+Filename: 
+Base address: 0x11c1000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x11d0000
+Allocation address: 0x11d0000
+Memory protection: PAGE_READONLY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Filename: 
+Base address: 0x11d4000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 49152
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x11e0000
+Allocation address: 0x11e0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x11e1000
+Allocation address: 0x11e0000
+Memory protection: PAGE_READWRITE
+Region size: 53248
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x11ee000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 8192
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x11f0000
+Allocation address: 0x11f0000
+Memory protection: PAGE_READWRITE
+Region size: 61440
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x11ff000
+Allocation address: 0x11f0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x1200000
+Allocation address: 0x1200000
+Memory protection: PAGE_READONLY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Filename: 
+Base address: 0x1201000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x1210000
+Allocation address: 0x1210000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x1211000
+Allocation address: 0x1210000
+Memory protection: PAGE_READWRITE
+Region size: 53248
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x121e000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 8192
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x1220000
+Allocation address: 0x1220000
+Memory protection: PAGE_READWRITE
+Region size: 32768
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x1228000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 32768
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x1230000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x1231000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1404928
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x1388000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 389120
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x13e7000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x13e8000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x13e9000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x13ec000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x13ee000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x13ef000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 61440
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x13fe000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 20480
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\notepad++.exe
+Base address: 0x1403000
+Allocation address: 0x1230000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 638976
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: 
+Base address: 0x149f000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 4096
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x14a0000
+Allocation address: 0x14a0000
+Memory protection: PAGE_READWRITE
+Region size: 33554432
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x34a0000
+Allocation address: 0x14a0000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x34a1000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x34b0000
+Allocation address: 0x34b0000
+Memory protection: PAGE_READONLY
+Region size: 978944
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Filename: 
+Base address: 0x359f000
+Allocation address: 0x34b0000
+Memory protection: PAGE_READONLY
+Region size: 19992576
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_MAPPED
 
-Base address: 0x4dc0000
-Allocation address: 0x4dc0000
+Filename: \Device\HarddiskVolume3\Windows\Globalization\Sorting\SortDefault.nls
+Base address: 0x48b0000
+Allocation address: 0x48b0000
 Memory protection: PAGE_READONLY
 Region size: 3371008
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x50f7000
+Filename: 
+Base address: 0x4be7000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 1085440
@@ -582,63 +862,71 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x5200000
-Allocation address: 0x5200000
+Filename: 
+Base address: 0x4cf0000
+Allocation address: 0x4cf0000
 Memory protection: PAGE_READWRITE
-Region size: 36864
+Region size: 32768
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0x5209000
-Allocation address: 0x5200000
+Filename: 
+Base address: 0x4cf8000
+Allocation address: 0x4cf0000
 Memory protection: PAGE_READWRITE
 Region size: 1724416
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x53ae000
-Allocation address: 0x5200000
+Filename: 
+Base address: 0x4e9d000
+Allocation address: 0x4cf0000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0x53af000
+Filename: 
+Base address: 0x4e9e000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 266240
+Region size: 2105344
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x53f0000
-Allocation address: 0x53f0000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x53f1000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 61440
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x5400000
-Allocation address: 0x5400000
+Filename: \Device\HarddiskVolume3\Users\Timothy\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000020.db
+Base address: 0x50a0000
+Allocation address: 0x50a0000
 Memory protection: PAGE_READONLY
-Region size: 4096
+Region size: 245760
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x5401000
+Filename: 
+Base address: 0x50dc000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 278528
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x5120000
+Allocation address: 0x5120000
+Memory protection: PAGE_READWRITE
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x5121000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 61440
@@ -646,215 +934,17 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x5410000
-Allocation address: 0x5410000
-Memory protection: PAGE_READWRITE
-Region size: 61440
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x541f000
-Allocation address: 0x5410000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0x5420000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 2359296
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x5660000
-Allocation address: 0x5660000
-Memory protection: PAGE_READONLY
-Region size: 24576
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_MAPPED
-
-Base address: 0x5666000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 40960
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x5670000
-Allocation address: 0x5670000
-Memory protection: PAGE_NOACCESS
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x5671000
-Allocation address: 0x5670000
-Memory protection: PAGE_NOACCESS
-Region size: 61440
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0x5680000
-Allocation address: 0x5680000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_MAPPED
-
-Base address: 0x5681000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 61440
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x5690000
-Allocation address: 0x5690000
-Memory protection: PAGE_READONLY
-Region size: 229376
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_MAPPED
-
-Base address: 0x56c8000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 32768
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x56d0000
-Allocation address: 0x56d0000
-Memory protection: PAGE_READONLY
-Region size: 16384
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_MAPPED
-
-Base address: 0x56d4000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 49152
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x56e0000
-Allocation address: 0x56e0000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x56e1000
-Allocation address: 0x56e0000
-Memory protection: PAGE_READWRITE
-Region size: 53248
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0x56ee000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 270336
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x5730000
-Allocation address: 0x5730000
-Memory protection: PAGE_READONLY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_MAPPED
-
-Base address: 0x5731000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 61440
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x5740000
-Allocation address: 0x5740000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x5741000
-Allocation address: 0x5740000
-Memory protection: PAGE_READWRITE
-Region size: 53248
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0x574e000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 8192
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x5750000
-Allocation address: 0x5750000
-Memory protection: PAGE_READWRITE
-Region size: 32768
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x5758000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 32768
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x5760000
-Allocation address: 0x5760000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x5761000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 61440
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x5770000
-Allocation address: 0x5770000
+Filename: \Device\HarddiskVolume3\Windows\System32\en-US\user32.dll.mui
+Base address: 0x5130000
+Allocation address: 0x5130000
 Memory protection: PAGE_READONLY
 Region size: 20480
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x5775000
+Filename: 
+Base address: 0x5135000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 45056
@@ -862,63 +952,161 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x5780000
-Allocation address: 0x5780000
+Filename: 
+Base address: 0x5140000
+Allocation address: 0x5140000
+Memory protection: PAGE_READONLY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Filename: 
+Base address: 0x5141000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x5150000
+Allocation address: 0x5150000
+Memory protection: PAGE_READONLY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_MAPPED
+
+Filename: 
+Base address: 0x5151000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 61440
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x5160000
+Allocation address: 0x5160000
+Memory protection: PAGE_READWRITE
+Region size: 49152
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x516c000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 16384
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x5170000
+Allocation address: 0x5170000
+Memory protection: PAGE_READWRITE
+Region size: 49152
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x517c000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 16384
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x5180000
+Allocation address: 0x5180000
+Memory protection: PAGE_READWRITE
+Region size: 49152
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x518c000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 16384
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: 
+Base address: 0x5190000
+Allocation address: 0x5190000
 Memory protection: PAGE_READWRITE
 Region size: 1044480
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x587f000
-Allocation address: 0x5780000
+Filename: 
+Base address: 0x528f000
+Allocation address: 0x5190000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0x5880000
-Allocation address: 0x5880000
+Filename: 
+Base address: 0x5290000
+Allocation address: 0x5290000
 Memory protection: PAGE_READWRITE
-Region size: 1728512
+Region size: 1679360
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x5a26000
-Allocation address: 0x5880000
+Filename: 
+Base address: 0x542a000
+Allocation address: 0x5290000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_NOACCESS
 Type: MEM_PRIVATE
 
-Base address: 0x5a27000
-Allocation address: 0x5880000
+Filename: 
+Base address: 0x542b000
+Allocation address: 0x5290000
 Memory protection: PAGE_READWRITE
-Region size: 360448
+Region size: 409600
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x5a7f000
-Allocation address: 0x5880000
+Filename: 
+Base address: 0x548f000
+Allocation address: 0x5290000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0x5a80000
-Allocation address: 0x5a80000
+Filename: 
+Base address: 0x5490000
+Allocation address: 0x5490000
 Memory protection: PAGE_READONLY
 Region size: 733184
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x5b33000
+Filename: 
+Base address: 0x5543000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 8376320
@@ -926,15 +1114,17 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x6330000
-Allocation address: 0x6330000
+Filename: \Device\HarddiskVolume3\Windows\Fonts\StaticCache.dat
+Base address: 0x5d40000
+Allocation address: 0x5d40000
 Memory protection: PAGE_READONLY
 Region size: 18612224
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x74f0000
+Filename: 
+Base address: 0x6f00000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 1048576
@@ -942,111 +1132,35 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x75f0000
-Allocation address: 0x75f0000
+Filename: 
+Base address: 0x7000000
+Allocation address: 0x7000000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x75f1000
-Allocation address: 0x75f0000
+Filename: 
+Base address: 0x7001000
+Allocation address: 0x7000000
 Memory protection: PAGE_READWRITE
 Region size: 520192
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0x7670000
-Allocation address: 0x7670000
-Memory protection: PAGE_READONLY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_MAPPED
-
-Base address: 0x7671000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 61440
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x7680000
-Allocation address: 0x7680000
-Memory protection: PAGE_READONLY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_MAPPED
-
-Base address: 0x7681000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 61440
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x7690000
-Allocation address: 0x7690000
-Memory protection: PAGE_READWRITE
-Region size: 49152
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x769c000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 16384
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x76a0000
-Allocation address: 0x76a0000
-Memory protection: PAGE_READWRITE
-Region size: 49152
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x76ac000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 16384
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x76b0000
-Allocation address: 0x76b0000
-Memory protection: PAGE_READWRITE
-Region size: 49152
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x76bc000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 16384
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x76c0000
-Allocation address: 0x76c0000
+Filename: 
+Base address: 0x7080000
+Allocation address: 0x7080000
 Memory protection: PAGE_READWRITE
 Region size: 40960
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x76ca000
+Filename: 
+Base address: 0x708a000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 24576
@@ -1054,191 +1168,179 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x76d0000
-Allocation address: 0x76d0000
+Filename: 
+Base address: 0x7090000
+Allocation address: 0x7090000
 Memory protection: PAGE_NOACCESS
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x76d1000
-Allocation address: 0x76d0000
+Filename: 
+Base address: 0x7091000
+Allocation address: 0x7090000
 Memory protection: PAGE_NOACCESS
 Region size: 8384512
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0x7ed0000
-Allocation address: 0x7ed0000
+Filename: 
+Base address: 0x7890000
+Allocation address: 0x7890000
 Memory protection: PAGE_READWRITE
 Region size: 16384
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x7ed4000
-Allocation address: 0x7ed0000
+Filename: 
+Base address: 0x7894000
+Allocation address: 0x7890000
 Memory protection: PAGE_READWRITE
 Region size: 1032192
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0x7fd0000
-Allocation address: 0x7fd0000
+Filename: 
+Base address: 0x7990000
+Allocation address: 0x7990000
 Memory protection: PAGE_READWRITE
-Region size: 884736
+Region size: 897024
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x80a8000
-Allocation address: 0x7fd0000
+Filename: 
+Base address: 0x7a6b000
+Allocation address: 0x7990000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_NOACCESS
 Type: MEM_PRIVATE
 
-Base address: 0x80a9000
-Allocation address: 0x7fd0000
+Filename: 
+Base address: 0x7a6c000
+Allocation address: 0x7990000
 Memory protection: PAGE_READWRITE
 Region size: 303104
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x80f3000
-Allocation address: 0x7fd0000
+Filename: 
+Base address: 0x7ab6000
+Allocation address: 0x7990000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_NOACCESS
 Type: MEM_PRIVATE
 
-Base address: 0x80f4000
-Allocation address: 0x7fd0000
+Filename: 
+Base address: 0x7ab7000
+Allocation address: 0x7990000
 Memory protection: PAGE_READWRITE
-Region size: 184320
+Region size: 180224
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x8121000
-Allocation address: 0x7fd0000
+Filename: 
+Base address: 0x7ae3000
+Allocation address: 0x7990000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_NOACCESS
 Type: MEM_PRIVATE
 
-Base address: 0x8122000
-Allocation address: 0x7fd0000
+Filename: 
+Base address: 0x7ae4000
+Allocation address: 0x7990000
 Memory protection: PAGE_READWRITE
-Region size: 524288
+Region size: 229376
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x81a2000
-Allocation address: 0x7fd0000
+Filename: 
+Base address: 0x7b1c000
+Allocation address: 0x7990000
 Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_NOACCESS
-Type: MEM_PRIVATE
-
-Base address: 0x81a3000
-Allocation address: 0x7fd0000
-Memory protection: PAGE_READWRITE
-Region size: 811008
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x8269000
-Allocation address: 0x7fd0000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_NOACCESS
-Type: MEM_PRIVATE
-
-Base address: 0x826a000
-Allocation address: 0x7fd0000
-Memory protection: PAGE_READWRITE
-Region size: 69632
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x827b000
-Allocation address: 0x7fd0000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_NOACCESS
-Type: MEM_PRIVATE
-
-Base address: 0x827c000
-Allocation address: 0x7fd0000
-Memory protection: PAGE_READWRITE
-Region size: 393216
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x82dc000
-Allocation address: 0x7fd0000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_NOACCESS
-Type: MEM_PRIVATE
-
-Base address: 0x82dd000
-Allocation address: 0x7fd0000
-Memory protection: PAGE_READWRITE
-Region size: 360448
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x8335000
-Allocation address: 0x7fd0000
-Memory protection: PAGE_READWRITE
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_NOACCESS
-Type: MEM_PRIVATE
-
-Base address: 0x8336000
-Allocation address: 0x7fd0000
-Memory protection: PAGE_READWRITE
-Region size: 311296
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x8382000
-Allocation address: 0x7fd0000
-Memory protection: PAGE_READWRITE
-Region size: 319488
+Region size: 2572288
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_PRIVATE
 
-Base address: 0x83d0000
-Allocation address: 0x83d0000
+Filename: 
+Base address: 0x7d90000
+Allocation address: 0x7d90000
+Memory protection: PAGE_READWRITE
+Region size: 217088
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x7dc5000
+Allocation address: 0x7d90000
+Memory protection: PAGE_READWRITE
+Region size: 12288
+State: MEM_COMMIT
+Protect: Unknown memory protection value
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x7dc8000
+Allocation address: 0x7d90000
+Memory protection: PAGE_READWRITE
+Region size: 32768
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x7dd0000
+Allocation address: 0x7dd0000
+Memory protection: PAGE_READWRITE
+Region size: 897024
+State: MEM_RESERVE
+Protect: PERMISSION_DENIED
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x7eab000
+Allocation address: 0x7dd0000
+Memory protection: PAGE_READWRITE
+Region size: 8192
+State: MEM_COMMIT
+Protect: Unknown memory protection value
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x7ead000
+Allocation address: 0x7dd0000
+Memory protection: PAGE_READWRITE
+Region size: 143360
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_PRIVATE
+
+Filename: 
+Base address: 0x7ed0000
+Allocation address: 0x7ed0000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x83d1000
+Filename: 
+Base address: 0x7ed1000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 61440
@@ -1246,70 +1348,25 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x83e0000
-Allocation address: 0x83e0000
-Memory protection: PAGE_READWRITE
-Region size: 217088
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0x8415000
-Allocation address: 0x83e0000
-Memory protection: PAGE_READWRITE
-Region size: 12288
-State: MEM_COMMIT
-Protect: Unknown memory protection value
-Type: MEM_PRIVATE
-
-Base address: 0x8418000
-Allocation address: 0x83e0000
-Memory protection: PAGE_READWRITE
-Region size: 32768
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x8420000
-Allocation address: 0x8420000
-Memory protection: PAGE_READWRITE
-Region size: 897024
-State: MEM_RESERVE
-Protect: PERMISSION_DENIED
-Type: MEM_PRIVATE
-
-Base address: 0x84fb000
-Allocation address: 0x8420000
-Memory protection: PAGE_READWRITE
-Region size: 8192
-State: MEM_COMMIT
-Protect: Unknown memory protection value
-Type: MEM_PRIVATE
-
-Base address: 0x84fd000
-Allocation address: 0x8420000
-Memory protection: PAGE_READWRITE
-Region size: 143360
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_PRIVATE
-
-Base address: 0x8520000
-Allocation address: 0x8520000
+Filename: 
+Base address: 0x7ee0000
+Allocation address: 0x7ee0000
 Memory protection: PAGE_READWRITE
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_PRIVATE
 
-Base address: 0x8521000
+Filename: 
+Base address: 0x7ee1000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 128839680
+Region size: 135393280
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\NppExport.dll
 Base address: 0x10000000
 Allocation address: 0x10000000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1318,6 +1375,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\NppExport.dll
 Base address: 0x10001000
 Allocation address: 0x10000000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1326,6 +1384,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\NppExport.dll
 Base address: 0x10003000
 Allocation address: 0x10000000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1334,6 +1393,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\NppExport.dll
 Base address: 0x10004000
 Allocation address: 0x10000000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1342,6 +1402,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\NppExport.dll
 Base address: 0x10005000
 Allocation address: 0x10000000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1350,55 +1411,62 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x10007000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 1145475072
+Region size: 1173852160
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x54470000
-Allocation address: 0x54470000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\NppConverter.dll
+Base address: 0x55f80000
+Allocation address: 0x55f80000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x54471000
-Allocation address: 0x54470000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\NppConverter.dll
+Base address: 0x55f81000
+Allocation address: 0x55f80000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 81920
 State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
-Base address: 0x54485000
-Allocation address: 0x54470000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\NppConverter.dll
+Base address: 0x55f95000
+Allocation address: 0x55f80000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 32768
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x5448d000
-Allocation address: 0x54470000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\NppConverter.dll
+Base address: 0x55f9d000
+Allocation address: 0x55f80000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 16384
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
-Base address: 0x54491000
-Allocation address: 0x54470000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\NppConverter.dll
+Base address: 0x55fa1000
+Allocation address: 0x55f80000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 12288
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x54494000
+Filename: 
+Base address: 0x55fa4000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 49152
@@ -1406,207 +1474,233 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x544a0000
-Allocation address: 0x544a0000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\SciLexer.dll
+Base address: 0x55fb0000
+Allocation address: 0x55fb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x544a1000
-Allocation address: 0x544a0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 57344
-State: MEM_COMMIT
-Protect: PAGE_EXECUTE_READ
-Type: MEM_IMAGE
-
-Base address: 0x544af000
-Allocation address: 0x544a0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 24576
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x544b5000
-Allocation address: 0x544a0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 16384
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x544b9000
-Allocation address: 0x544a0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 12288
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x544bc000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 16384
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x544c0000
-Allocation address: 0x544c0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x544c1000
-Allocation address: 0x544c0000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\SciLexer.dll
+Base address: 0x55fb1000
+Allocation address: 0x55fb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 872448
 State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
-Base address: 0x54596000
-Allocation address: 0x544c0000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\SciLexer.dll
+Base address: 0x56086000
+Allocation address: 0x55fb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 126976
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x545b5000
-Allocation address: 0x544c0000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\SciLexer.dll
+Base address: 0x560a5000
+Allocation address: 0x55fb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 8192
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
-Base address: 0x545b7000
-Allocation address: 0x544c0000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\SciLexer.dll
+Base address: 0x560a7000
+Allocation address: 0x55fb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
-Base address: 0x545b8000
-Allocation address: 0x544c0000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\SciLexer.dll
+Base address: 0x560a8000
+Allocation address: 0x55fb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 12288
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
-Base address: 0x545bb000
-Allocation address: 0x544c0000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\SciLexer.dll
+Base address: 0x560ab000
+Allocation address: 0x55fb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 40960
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x545c5000
+Filename: 
+Base address: 0x560b5000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 18329600
+Region size: 31043584
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x55740000
-Allocation address: 0x55740000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\WindowsCodecs.dll
+Base address: 0x57e50000
+Allocation address: 0x57e50000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x55741000
-Allocation address: 0x55740000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\WindowsCodecs.dll
+Base address: 0x57e51000
+Allocation address: 0x57e50000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 1400832
 State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
-Base address: 0x55897000
-Allocation address: 0x55740000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\WindowsCodecs.dll
+Base address: 0x57fa7000
+Allocation address: 0x57e50000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 8192
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
-Base address: 0x55899000
-Allocation address: 0x55740000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\WindowsCodecs.dll
+Base address: 0x57fa9000
+Allocation address: 0x57e50000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 86016
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x558ae000
+Filename: 
+Base address: 0x57fbe000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 283385856
+Region size: 20717568
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x666f0000
-Allocation address: 0x666f0000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\mimeTools.dll
+Base address: 0x59380000
+Allocation address: 0x59380000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x666f1000
-Allocation address: 0x666f0000
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\mimeTools.dll
+Base address: 0x59381000
+Allocation address: 0x59380000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 57344
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\mimeTools.dll
+Base address: 0x5938f000
+Allocation address: 0x59380000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 24576
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\mimeTools.dll
+Base address: 0x59395000
+Allocation address: 0x59380000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Program Files (x86)\Notepad++\plugins\mimeTools.dll
+Base address: 0x59399000
+Allocation address: 0x59380000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: 
+Base address: 0x5939c000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 184107008
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\twinapi.appcore.dll
+Base address: 0x64330000
+Allocation address: 0x64330000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\twinapi.appcore.dll
+Base address: 0x64331000
+Allocation address: 0x64330000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 1126400
 State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
-Base address: 0x66804000
-Allocation address: 0x666f0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\twinapi.appcore.dll
+Base address: 0x64444000
+Allocation address: 0x64330000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
-Base address: 0x66805000
-Allocation address: 0x666f0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\twinapi.appcore.dll
+Base address: 0x64445000
+Allocation address: 0x64330000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
-Base address: 0x66806000
-Allocation address: 0x666f0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\twinapi.appcore.dll
+Base address: 0x64446000
+Allocation address: 0x64330000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 8192
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
-Base address: 0x66808000
-Allocation address: 0x666f0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\twinapi.appcore.dll
+Base address: 0x64448000
+Allocation address: 0x64330000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 114688
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x66824000
+Filename: 
+Base address: 0x64464000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
 Region size: 49152
@@ -1614,46 +1708,241 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x66830000
-Allocation address: 0x66830000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dcomp.dll
+Base address: 0x64470000
+Allocation address: 0x64470000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x66831000
-Allocation address: 0x66830000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dcomp.dll
+Base address: 0x64471000
+Allocation address: 0x64470000
 Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 454656
+Region size: 917504
 State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
-Base address: 0x668a0000
-Allocation address: 0x66830000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dcomp.dll
+Base address: 0x64551000
+Allocation address: 0x64470000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 12288
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
-Base address: 0x668a3000
-Allocation address: 0x66830000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dcomp.dll
+Base address: 0x64554000
+Allocation address: 0x64470000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dcomp.dll
+Base address: 0x64556000
+Allocation address: 0x64470000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dcomp.dll
+Base address: 0x64557000
+Allocation address: 0x64470000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 94208
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: 
+Base address: 0x6456e000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 35463168
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\d3d11.dll
+Base address: 0x66740000
+Allocation address: 0x66740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\d3d11.dll
+Base address: 0x66741000
+Allocation address: 0x66740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 2142208
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\d3d11.dll
+Base address: 0x6694c000
+Allocation address: 0x66740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\d3d11.dll
+Base address: 0x6694e000
+Allocation address: 0x66740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\d3d11.dll
+Base address: 0x6694f000
+Allocation address: 0x66740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\d3d11.dll
+Base address: 0x66950000
+Allocation address: 0x66740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 16384
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\d3d11.dll
+Base address: 0x66954000
+Allocation address: 0x66740000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 172032
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: 
+Base address: 0x6697e000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 7217152
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dxgi.dll
+Base address: 0x67060000
+Allocation address: 0x67060000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dxgi.dll
+Base address: 0x67061000
+Allocation address: 0x67060000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 454656
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dxgi.dll
+Base address: 0x670d0000
+Allocation address: 0x67060000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dxgi.dll
+Base address: 0x670d3000
+Allocation address: 0x67060000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 131072
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x668c3000
+Filename: 
+Base address: 0x670f3000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 42127360
+Region size: 31182848
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\CoreUIComponents.dll
+Base address: 0x68eb0000
+Allocation address: 0x68eb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\CoreUIComponents.dll
+Base address: 0x68eb1000
+Allocation address: 0x68eb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 1306624
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\CoreUIComponents.dll
+Base address: 0x68ff0000
+Allocation address: 0x68eb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 602112
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\CoreUIComponents.dll
+Base address: 0x69083000
+Allocation address: 0x68eb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 12288
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\CoreUIComponents.dll
+Base address: 0x69086000
+Allocation address: 0x68eb0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 385024
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: 
+Base address: 0x690e4000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 49152
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64cpu.dll
 Base address: 0x690f0000
 Allocation address: 0x690f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1662,6 +1951,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64cpu.dll
 Base address: 0x690f1000
 Allocation address: 0x690f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1670,6 +1960,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64cpu.dll
 Base address: 0x690f4000
 Allocation address: 0x690f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1678,6 +1969,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64cpu.dll
 Base address: 0x690f5000
 Allocation address: 0x690f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1686,6 +1978,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64cpu.dll
 Base address: 0x690f6000
 Allocation address: 0x690f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1694,6 +1987,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64cpu.dll
 Base address: 0x690f7000
 Allocation address: 0x690f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1702,6 +1996,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64cpu.dll
 Base address: 0x690f8000
 Allocation address: 0x690f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1710,6 +2005,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x690fa000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -1718,6 +2014,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64.dll
 Base address: 0x69100000
 Allocation address: 0x69100000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1726,6 +2023,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64.dll
 Base address: 0x69101000
 Allocation address: 0x69100000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1734,6 +2032,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64.dll
 Base address: 0x69134000
 Allocation address: 0x69100000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1742,6 +2041,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64.dll
 Base address: 0x69148000
 Allocation address: 0x69100000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1750,6 +2050,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64.dll
 Base address: 0x69149000
 Allocation address: 0x69100000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1758,6 +2059,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x69151000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -1766,6 +2068,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64win.dll
 Base address: 0x69160000
 Allocation address: 0x69160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1774,6 +2077,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64win.dll
 Base address: 0x69161000
 Allocation address: 0x69160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1782,6 +2086,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64win.dll
 Base address: 0x6919d000
 Allocation address: 0x69160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1790,6 +2095,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64win.dll
 Base address: 0x691c4000
 Allocation address: 0x69160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1798,6 +2104,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64win.dll
 Base address: 0x691c5000
 Allocation address: 0x69160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1806,6 +2113,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64win.dll
 Base address: 0x691c6000
 Allocation address: 0x69160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1814,6 +2122,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\System32\wow64win.dll
 Base address: 0x691c7000
 Allocation address: 0x69160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -1822,230 +2131,106 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x691d6000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 40960
+Region size: 51945472
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x691e0000
-Allocation address: 0x691e0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\SensApi.dll
+Base address: 0x6c360000
+Allocation address: 0x6c360000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x691e1000
-Allocation address: 0x691e0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\SensApi.dll
+Base address: 0x6c361000
+Allocation address: 0x6c360000
 Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 2142208
+Region size: 8192
 State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
-Base address: 0x693ec000
-Allocation address: 0x691e0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 8192
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x693ee000
-Allocation address: 0x691e0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_WRITECOPY
-Type: MEM_IMAGE
-
-Base address: 0x693ef000
-Allocation address: 0x691e0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\SensApi.dll
+Base address: 0x6c363000
+Allocation address: 0x6c360000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
-Base address: 0x693f0000
-Allocation address: 0x691e0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\SensApi.dll
+Base address: 0x6c364000
+Allocation address: 0x6c360000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 16384
 State: MEM_COMMIT
-Protect: PAGE_WRITECOPY
-Type: MEM_IMAGE
-
-Base address: 0x693f4000
-Allocation address: 0x691e0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 172032
-State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x6941e000
+Filename: 
+Base address: 0x6c368000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 8192
+Region size: 5996544
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x69420000
-Allocation address: 0x69420000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\DataExchange.dll
+Base address: 0x6c920000
+Allocation address: 0x6c920000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x69421000
-Allocation address: 0x69420000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\DataExchange.dll
+Base address: 0x6c921000
+Allocation address: 0x6c920000
 Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 1306624
+Region size: 139264
 State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
-Base address: 0x69560000
-Allocation address: 0x69420000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 602112
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x695f3000
-Allocation address: 0x69420000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 12288
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x695f6000
-Allocation address: 0x69420000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 385024
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x69654000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 18006016
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x6a780000
-Allocation address: 0x6a780000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x6a781000
-Allocation address: 0x6a780000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 917504
-State: MEM_COMMIT
-Protect: PAGE_EXECUTE_READ
-Type: MEM_IMAGE
-
-Base address: 0x6a861000
-Allocation address: 0x6a780000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 12288
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x6a864000
-Allocation address: 0x6a780000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 8192
-State: MEM_COMMIT
-Protect: PAGE_WRITECOPY
-Type: MEM_IMAGE
-
-Base address: 0x6a866000
-Allocation address: 0x6a780000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\DataExchange.dll
+Base address: 0x6c943000
+Allocation address: 0x6c920000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
-Base address: 0x6a867000
-Allocation address: 0x6a780000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\DataExchange.dll
+Base address: 0x6c944000
+Allocation address: 0x6c920000
 Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 94208
+Region size: 147456
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x6a87e000
+Filename: 
+Base address: 0x6c968000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 29499392
+Region size: 98304
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x6c4a0000
-Allocation address: 0x6c4a0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x6c4a1000
-Allocation address: 0x6c4a0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 372736
-State: MEM_COMMIT
-Protect: PAGE_EXECUTE_READ
-Type: MEM_IMAGE
-
-Base address: 0x6c4fc000
-Allocation address: 0x6c4a0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 110592
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x6c517000
-Allocation address: 0x6c4a0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 8192
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x6c519000
-Allocation address: 0x6c4a0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 77824
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x6c52c000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 4538368
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dbghelp.dll
 Base address: 0x6c980000
 Allocation address: 0x6c980000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2054,6 +2239,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dbghelp.dll
 Base address: 0x6c981000
 Allocation address: 0x6c980000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2062,6 +2248,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dbghelp.dll
 Base address: 0x6cac7000
 Allocation address: 0x6c980000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2070,6 +2257,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dbghelp.dll
 Base address: 0x6cac9000
 Allocation address: 0x6c980000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2078,6 +2266,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dbghelp.dll
 Base address: 0x6caca000
 Allocation address: 0x6c980000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2086,6 +2275,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dbghelp.dll
 Base address: 0x6cacd000
 Allocation address: 0x6c980000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2094,6 +2284,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dbghelp.dll
 Base address: 0x6caeb000
 Allocation address: 0x6c980000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2102,54 +2293,16 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x6cb01000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 1830912
+Region size: 10416128
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x6ccc0000
-Allocation address: 0x6ccc0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x6ccc1000
-Allocation address: 0x6ccc0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 8192
-State: MEM_COMMIT
-Protect: PAGE_EXECUTE_READ
-Type: MEM_IMAGE
-
-Base address: 0x6ccc3000
-Allocation address: 0x6ccc0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x6ccc4000
-Allocation address: 0x6ccc0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 16384
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x6ccc8000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 8552448
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\uxtheme.dll
 Base address: 0x6d4f0000
 Allocation address: 0x6d4f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2158,6 +2311,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\uxtheme.dll
 Base address: 0x6d4f1000
 Allocation address: 0x6d4f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2166,6 +2320,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\uxtheme.dll
 Base address: 0x6d55b000
 Allocation address: 0x6d4f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2174,6 +2329,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\uxtheme.dll
 Base address: 0x6d55d000
 Allocation address: 0x6d4f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2182,6 +2338,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\uxtheme.dll
 Base address: 0x6d55e000
 Allocation address: 0x6d4f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2190,54 +2347,16 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x6d569000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 94208
+Region size: 6123520
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x6d580000
-Allocation address: 0x6d580000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x6d581000
-Allocation address: 0x6d580000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 438272
-State: MEM_COMMIT
-Protect: PAGE_EXECUTE_READ
-Type: MEM_IMAGE
-
-Base address: 0x6d5ec000
-Allocation address: 0x6d580000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 8192
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x6d5ee000
-Allocation address: 0x6d580000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 36864
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x6d5f7000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 5541888
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
+Filename: \Device\HarddiskVolume3\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\comctl32.dll
 Base address: 0x6db40000
 Allocation address: 0x6db40000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2246,6 +2365,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\comctl32.dll
 Base address: 0x6db41000
 Allocation address: 0x6db40000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2254,6 +2374,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\comctl32.dll
 Base address: 0x6dce8000
 Allocation address: 0x6db40000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2262,6 +2383,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\comctl32.dll
 Base address: 0x6dcea000
 Allocation address: 0x6db40000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2270,6 +2392,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\comctl32.dll
 Base address: 0x6dceb000
 Allocation address: 0x6db40000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2278,6 +2401,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x6dd51000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2286,6 +2410,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rmclient.dll
 Base address: 0x6ddb0000
 Allocation address: 0x6ddb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2294,6 +2419,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rmclient.dll
 Base address: 0x6ddb1000
 Allocation address: 0x6ddb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2302,6 +2428,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rmclient.dll
 Base address: 0x6ddc4000
 Allocation address: 0x6ddb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2310,6 +2437,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rmclient.dll
 Base address: 0x6ddc5000
 Allocation address: 0x6ddb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2318,6 +2446,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x6ddca000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2326,6 +2455,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\WinTypes.dll
 Base address: 0x6e060000
 Allocation address: 0x6e060000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2334,6 +2464,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\WinTypes.dll
 Base address: 0x6e061000
 Allocation address: 0x6e060000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2342,6 +2473,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\WinTypes.dll
 Base address: 0x6e111000
 Allocation address: 0x6e060000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2350,6 +2482,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\WinTypes.dll
 Base address: 0x6e112000
 Allocation address: 0x6e060000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2358,102 +2491,115 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x6e12b000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 23744512
+Region size: 217088
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x6f7d0000
-Allocation address: 0x6f7d0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\CoreMessaging.dll
+Base address: 0x6e160000
+Allocation address: 0x6e160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 4096
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x6f7d1000
-Allocation address: 0x6f7d0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\CoreMessaging.dll
+Base address: 0x6e161000
+Allocation address: 0x6e160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 139264
+Region size: 372736
 State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
-Base address: 0x6f7f3000
-Allocation address: 0x6f7d0000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\CoreMessaging.dll
+Base address: 0x6e1bc000
+Allocation address: 0x6e160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x6f7f4000
-Allocation address: 0x6f7d0000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 147456
+Region size: 110592
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x6f818000
-Allocation address: 0x0
-Memory protection: PERMISSION_DENIED
-Region size: 32768
-State: MEM_FREE
-Protect: PAGE_NOACCESS
-Type: Unknown Type value
-
-Base address: 0x6f820000
-Allocation address: 0x6f820000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READONLY
-Type: MEM_IMAGE
-
-Base address: 0x6f821000
-Allocation address: 0x6f820000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 86016
-State: MEM_COMMIT
-Protect: PAGE_EXECUTE_READ
-Type: MEM_IMAGE
-
-Base address: 0x6f836000
-Allocation address: 0x6f820000
-Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 4096
-State: MEM_COMMIT
-Protect: PAGE_READWRITE
-Type: MEM_IMAGE
-
-Base address: 0x6f837000
-Allocation address: 0x6f820000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\CoreMessaging.dll
+Base address: 0x6e1d7000
+Allocation address: 0x6e160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
 Region size: 8192
 State: MEM_COMMIT
-Protect: PAGE_WRITECOPY
+Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
-Base address: 0x6f839000
-Allocation address: 0x6f820000
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\CoreMessaging.dll
+Base address: 0x6e1d9000
+Allocation address: 0x6e160000
 Memory protection: PAGE_EXECUTE_WRITECOPY
-Region size: 40960
+Region size: 77824
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
-Base address: 0x6f843000
+Filename: 
+Base address: 0x6e1ec000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 1363968
+Region size: 7225344
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\TextInputFramework.dll
+Base address: 0x6e8d0000
+Allocation address: 0x6e8d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\TextInputFramework.dll
+Base address: 0x6e8d1000
+Allocation address: 0x6e8d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 438272
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\TextInputFramework.dll
+Base address: 0x6e93c000
+Allocation address: 0x6e8d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\TextInputFramework.dll
+Base address: 0x6e93e000
+Allocation address: 0x6e8d0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 36864
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: 
+Base address: 0x6e947000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 17076224
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msimg32.dll
 Base address: 0x6f990000
 Allocation address: 0x6f990000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2462,6 +2608,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msimg32.dll
 Base address: 0x6f991000
 Allocation address: 0x6f990000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2470,6 +2617,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msimg32.dll
 Base address: 0x6f992000
 Allocation address: 0x6f990000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2478,6 +2626,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msimg32.dll
 Base address: 0x6f993000
 Allocation address: 0x6f990000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2486,14 +2635,70 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x6f996000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 17801216
+Region size: 13934592
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dwmapi.dll
+Base address: 0x706e0000
+Allocation address: 0x706e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dwmapi.dll
+Base address: 0x706e1000
+Allocation address: 0x706e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 86016
+State: MEM_COMMIT
+Protect: PAGE_EXECUTE_READ
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dwmapi.dll
+Base address: 0x706f6000
+Allocation address: 0x706e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 4096
+State: MEM_COMMIT
+Protect: PAGE_READWRITE
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dwmapi.dll
+Base address: 0x706f7000
+Allocation address: 0x706e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 8192
+State: MEM_COMMIT
+Protect: PAGE_WRITECOPY
+Type: MEM_IMAGE
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\dwmapi.dll
+Base address: 0x706f9000
+Allocation address: 0x706e0000
+Memory protection: PAGE_EXECUTE_WRITECOPY
+Region size: 40960
+State: MEM_COMMIT
+Protect: PAGE_READONLY
+Type: MEM_IMAGE
+
+Filename: 
+Base address: 0x70703000
+Allocation address: 0x0
+Memory protection: PERMISSION_DENIED
+Region size: 3723264
+State: MEM_FREE
+Protect: PAGE_NOACCESS
+Type: Unknown Type value
+
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\aepic.dll
 Base address: 0x70a90000
 Allocation address: 0x70a90000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2502,6 +2707,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\aepic.dll
 Base address: 0x70a91000
 Allocation address: 0x70a90000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2510,6 +2716,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\aepic.dll
 Base address: 0x70abd000
 Allocation address: 0x70a90000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2518,6 +2725,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\aepic.dll
 Base address: 0x70abf000
 Allocation address: 0x70a90000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2526,6 +2734,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x70ac6000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2534,6 +2743,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cldapi.dll
 Base address: 0x70ad0000
 Allocation address: 0x70ad0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2542,6 +2752,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cldapi.dll
 Base address: 0x70ad1000
 Allocation address: 0x70ad0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2550,6 +2761,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cldapi.dll
 Base address: 0x70ae1000
 Allocation address: 0x70ad0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2558,6 +2770,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cldapi.dll
 Base address: 0x70ae2000
 Allocation address: 0x70ad0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2566,6 +2779,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x70ae6000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2574,6 +2788,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\propsys.dll
 Base address: 0x70b00000
 Allocation address: 0x70b00000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2582,6 +2797,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\propsys.dll
 Base address: 0x70b01000
 Allocation address: 0x70b00000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2590,6 +2806,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\propsys.dll
 Base address: 0x70bae000
 Allocation address: 0x70b00000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2598,6 +2815,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\propsys.dll
 Base address: 0x70baf000
 Allocation address: 0x70b00000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2606,6 +2824,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x70c7a000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2614,6 +2833,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rsaenh.dll
 Base address: 0x71b20000
 Allocation address: 0x71b20000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2622,6 +2842,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rsaenh.dll
 Base address: 0x71b21000
 Allocation address: 0x71b20000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2630,6 +2851,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rsaenh.dll
 Base address: 0x71b44000
 Allocation address: 0x71b20000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2638,6 +2860,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rsaenh.dll
 Base address: 0x71b45000
 Allocation address: 0x71b20000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2646,6 +2869,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x71b4f000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2654,6 +2878,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cryptsp.dll
 Base address: 0x71b50000
 Allocation address: 0x71b50000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2662,6 +2887,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cryptsp.dll
 Base address: 0x71b51000
 Allocation address: 0x71b50000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2670,6 +2896,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cryptsp.dll
 Base address: 0x71b5e000
 Allocation address: 0x71b50000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2678,6 +2905,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cryptsp.dll
 Base address: 0x71b5f000
 Allocation address: 0x71b50000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2686,6 +2914,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x71b63000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2694,6 +2923,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ntmarta.dll
 Base address: 0x72790000
 Allocation address: 0x72790000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2702,6 +2932,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ntmarta.dll
 Base address: 0x72791000
 Allocation address: 0x72790000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2710,6 +2941,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ntmarta.dll
 Base address: 0x727b0000
 Allocation address: 0x72790000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2718,6 +2950,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ntmarta.dll
 Base address: 0x727b1000
 Allocation address: 0x72790000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2726,6 +2959,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ntmarta.dll
 Base address: 0x727b2000
 Allocation address: 0x72790000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2734,6 +2968,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x727b8000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2742,6 +2977,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\fltLib.dll
 Base address: 0x72ca0000
 Allocation address: 0x72ca0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2750,6 +2986,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\fltLib.dll
 Base address: 0x72ca1000
 Allocation address: 0x72ca0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2758,6 +2995,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\fltLib.dll
 Base address: 0x72ca4000
 Allocation address: 0x72ca0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2766,6 +3004,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\fltLib.dll
 Base address: 0x72ca5000
 Allocation address: 0x72ca0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2774,6 +3013,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x72ca8000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2782,6 +3022,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\bcrypt.dll
 Base address: 0x73320000
 Allocation address: 0x73320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2790,6 +3031,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\bcrypt.dll
 Base address: 0x73321000
 Allocation address: 0x73320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2798,6 +3040,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\bcrypt.dll
 Base address: 0x73334000
 Allocation address: 0x73320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2806,6 +3049,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\bcrypt.dll
 Base address: 0x73335000
 Allocation address: 0x73320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2814,6 +3058,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x73339000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2822,6 +3067,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\apphelp.dll
 Base address: 0x74580000
 Allocation address: 0x74580000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2830,6 +3076,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\apphelp.dll
 Base address: 0x74581000
 Allocation address: 0x74580000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2838,6 +3085,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\apphelp.dll
 Base address: 0x745f8000
 Allocation address: 0x74580000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2846,6 +3094,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\apphelp.dll
 Base address: 0x745fa000
 Allocation address: 0x74580000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2854,6 +3103,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x7461a000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2862,6 +3112,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cryptbase.dll
 Base address: 0x74620000
 Allocation address: 0x74620000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2870,6 +3121,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cryptbase.dll
 Base address: 0x74621000
 Allocation address: 0x74620000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2878,6 +3130,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cryptbase.dll
 Base address: 0x74625000
 Allocation address: 0x74620000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2886,6 +3139,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cryptbase.dll
 Base address: 0x74626000
 Allocation address: 0x74620000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2894,6 +3148,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x7462a000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2902,6 +3157,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\sspicli.dll
 Base address: 0x74630000
 Allocation address: 0x74630000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2910,6 +3166,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\sspicli.dll
 Base address: 0x74631000
 Allocation address: 0x74630000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2918,6 +3175,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\sspicli.dll
 Base address: 0x7464a000
 Allocation address: 0x74630000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2926,6 +3184,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\sspicli.dll
 Base address: 0x7464b000
 Allocation address: 0x74630000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2934,6 +3193,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\shell32.dll
 Base address: 0x74650000
 Allocation address: 0x74650000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2942,6 +3202,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\shell32.dll
 Base address: 0x74651000
 Allocation address: 0x74650000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2950,6 +3211,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\shell32.dll
 Base address: 0x74b32000
 Allocation address: 0x74650000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2958,6 +3220,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\shell32.dll
 Base address: 0x74b37000
 Allocation address: 0x74650000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2966,6 +3229,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\shell32.dll
 Base address: 0x74b39000
 Allocation address: 0x74650000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2974,6 +3238,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x75983000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -2982,6 +3247,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ole32.dll
 Base address: 0x759f0000
 Allocation address: 0x759f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2990,6 +3256,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ole32.dll
 Base address: 0x759f1000
 Allocation address: 0x759f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -2998,6 +3265,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ole32.dll
 Base address: 0x75abd000
 Allocation address: 0x759f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3006,6 +3274,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ole32.dll
 Base address: 0x75abe000
 Allocation address: 0x759f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3014,6 +3283,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ole32.dll
 Base address: 0x75abf000
 Allocation address: 0x759f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3022,6 +3292,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x75ae7000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3030,6 +3301,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\profapi.dll
 Base address: 0x75af0000
 Allocation address: 0x75af0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3038,6 +3310,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\profapi.dll
 Base address: 0x75af1000
 Allocation address: 0x75af0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3046,6 +3319,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\profapi.dll
 Base address: 0x75afe000
 Allocation address: 0x75af0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3054,6 +3328,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\profapi.dll
 Base address: 0x75aff000
 Allocation address: 0x75af0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3062,6 +3337,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x75b04000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3070,6 +3346,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\advapi32.dll
 Base address: 0x75bb0000
 Allocation address: 0x75bb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3078,6 +3355,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\advapi32.dll
 Base address: 0x75bb1000
 Allocation address: 0x75bb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3086,6 +3364,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\advapi32.dll
 Base address: 0x75c17000
 Allocation address: 0x75bb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3094,6 +3373,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\advapi32.dll
 Base address: 0x75c18000
 Allocation address: 0x75bb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3102,6 +3382,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\advapi32.dll
 Base address: 0x75c19000
 Allocation address: 0x75bb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3110,6 +3391,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\advapi32.dll
 Base address: 0x75c1b000
 Allocation address: 0x75bb0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3118,6 +3400,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x75c28000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3126,6 +3409,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\combase.dll
 Base address: 0x75c30000
 Allocation address: 0x75c30000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3134,6 +3418,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\combase.dll
 Base address: 0x75c31000
 Allocation address: 0x75c30000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3142,6 +3427,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\combase.dll
 Base address: 0x75e37000
 Allocation address: 0x75c30000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3150,6 +3436,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\combase.dll
 Base address: 0x75e3b000
 Allocation address: 0x75c30000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3158,6 +3445,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x75e76000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3166,6 +3454,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\imagehlp.dll
 Base address: 0x75e80000
 Allocation address: 0x75e80000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3174,6 +3463,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\imagehlp.dll
 Base address: 0x75e81000
 Allocation address: 0x75e80000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3182,6 +3472,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\imagehlp.dll
 Base address: 0x75e91000
 Allocation address: 0x75e80000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3190,6 +3481,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\imagehlp.dll
 Base address: 0x75e92000
 Allocation address: 0x75e80000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3198,6 +3490,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\imagehlp.dll
 Base address: 0x75e93000
 Allocation address: 0x75e80000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3206,6 +3499,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x75e99000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3214,6 +3508,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\wintrust.dll
 Base address: 0x75ea0000
 Allocation address: 0x75ea0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3222,6 +3517,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\wintrust.dll
 Base address: 0x75ea1000
 Allocation address: 0x75ea0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3230,6 +3526,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\wintrust.dll
 Base address: 0x75edc000
 Allocation address: 0x75ea0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3238,6 +3535,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\wintrust.dll
 Base address: 0x75edd000
 Allocation address: 0x75ea0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3246,6 +3544,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x75ee6000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3254,6 +3553,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\comdlg32.dll
 Base address: 0x75ef0000
 Allocation address: 0x75ef0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3262,6 +3562,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\comdlg32.dll
 Base address: 0x75ef1000
 Allocation address: 0x75ef0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3270,6 +3571,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\comdlg32.dll
 Base address: 0x75f71000
 Allocation address: 0x75ef0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3278,6 +3580,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\comdlg32.dll
 Base address: 0x75f74000
 Allocation address: 0x75ef0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3286,6 +3589,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\comdlg32.dll
 Base address: 0x75f75000
 Allocation address: 0x75ef0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3294,6 +3598,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x75fc4000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3302,6 +3607,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel.appcore.dll
 Base address: 0x75fd0000
 Allocation address: 0x75fd0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3310,6 +3616,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel.appcore.dll
 Base address: 0x75fd1000
 Allocation address: 0x75fd0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3318,6 +3625,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel.appcore.dll
 Base address: 0x75fd7000
 Allocation address: 0x75fd0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3326,6 +3634,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel.appcore.dll
 Base address: 0x75fd8000
 Allocation address: 0x75fd0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3334,6 +3643,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x75fde000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3342,6 +3652,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x75fe0000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3350,6 +3661,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x75fe1000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3358,6 +3670,7 @@ State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x75ff0000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3366,6 +3679,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x7604f000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3374,6 +3688,7 @@ State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x76050000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3382,6 +3697,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x76077000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3390,6 +3706,7 @@ State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x76080000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3398,6 +3715,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x76081000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3406,6 +3724,7 @@ State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x76090000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3414,6 +3733,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x76091000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3422,6 +3742,7 @@ State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x760a0000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3430,6 +3751,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\kernel32.dll
 Base address: 0x760a5000
 Allocation address: 0x75fe0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3438,6 +3760,7 @@ State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x760b0000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3446,6 +3769,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\gdi32full.dll
 Base address: 0x76180000
 Allocation address: 0x76180000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3454,6 +3778,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\gdi32full.dll
 Base address: 0x76181000
 Allocation address: 0x76180000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3462,6 +3787,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\gdi32full.dll
 Base address: 0x762b9000
 Allocation address: 0x76180000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3470,6 +3796,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\gdi32full.dll
 Base address: 0x762bc000
 Allocation address: 0x76180000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3478,6 +3805,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x762de000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3486,6 +3814,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cfgmgr32.dll
 Base address: 0x762e0000
 Allocation address: 0x762e0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3494,6 +3823,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cfgmgr32.dll
 Base address: 0x762e1000
 Allocation address: 0x762e0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3502,6 +3832,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cfgmgr32.dll
 Base address: 0x76311000
 Allocation address: 0x762e0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3510,6 +3841,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\cfgmgr32.dll
 Base address: 0x76312000
 Allocation address: 0x762e0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3518,6 +3850,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x76318000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3526,6 +3859,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rpcrt4.dll
 Base address: 0x76320000
 Allocation address: 0x76320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3534,6 +3868,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rpcrt4.dll
 Base address: 0x76321000
 Allocation address: 0x76320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3542,6 +3877,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rpcrt4.dll
 Base address: 0x763cd000
 Allocation address: 0x76320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3550,6 +3886,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\rpcrt4.dll
 Base address: 0x763ce000
 Allocation address: 0x76320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3558,6 +3895,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x763de000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3566,6 +3904,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\SHCore.dll
 Base address: 0x76440000
 Allocation address: 0x76440000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3574,6 +3913,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\SHCore.dll
 Base address: 0x76441000
 Allocation address: 0x76440000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3582,6 +3922,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\SHCore.dll
 Base address: 0x764b9000
 Allocation address: 0x76440000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3590,6 +3931,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\SHCore.dll
 Base address: 0x764ba000
 Allocation address: 0x76440000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3598,6 +3940,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x764c8000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3606,6 +3949,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\win32u.dll
 Base address: 0x764d0000
 Allocation address: 0x764d0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3614,6 +3958,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\win32u.dll
 Base address: 0x764d1000
 Allocation address: 0x764d0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3622,6 +3967,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\win32u.dll
 Base address: 0x764e2000
 Allocation address: 0x764d0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3630,6 +3976,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\win32u.dll
 Base address: 0x764e3000
 Allocation address: 0x764d0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3638,6 +3985,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x764e6000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3646,6 +3994,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msvcrt.dll
 Base address: 0x764f0000
 Allocation address: 0x764f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3654,6 +4003,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msvcrt.dll
 Base address: 0x764f1000
 Allocation address: 0x764f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3662,6 +4012,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msvcrt.dll
 Base address: 0x765a0000
 Allocation address: 0x764f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3670,6 +4021,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msvcrt.dll
 Base address: 0x765a2000
 Allocation address: 0x764f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3678,6 +4030,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msvcrt.dll
 Base address: 0x765a6000
 Allocation address: 0x764f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3686,6 +4039,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x765ad000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3694,6 +4048,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\powrprof.dll
 Base address: 0x765b0000
 Allocation address: 0x765b0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3702,6 +4057,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\powrprof.dll
 Base address: 0x765b1000
 Allocation address: 0x765b0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3710,6 +4066,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\powrprof.dll
 Base address: 0x765c6000
 Allocation address: 0x765b0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3718,6 +4075,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\powrprof.dll
 Base address: 0x765c7000
 Allocation address: 0x765b0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3726,6 +4084,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x765f5000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3734,6 +4093,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\clbcatq.dll
 Base address: 0x76600000
 Allocation address: 0x76600000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3742,6 +4102,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\clbcatq.dll
 Base address: 0x76601000
 Allocation address: 0x76600000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3750,6 +4111,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\clbcatq.dll
 Base address: 0x76673000
 Allocation address: 0x76600000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3758,6 +4120,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\clbcatq.dll
 Base address: 0x76677000
 Allocation address: 0x76600000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3766,6 +4129,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x76682000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3774,6 +4138,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msasn1.dll
 Base address: 0x76690000
 Allocation address: 0x76690000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3782,6 +4147,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msasn1.dll
 Base address: 0x76691000
 Allocation address: 0x76690000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3790,6 +4156,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msasn1.dll
 Base address: 0x7669a000
 Allocation address: 0x76690000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3798,6 +4165,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msasn1.dll
 Base address: 0x7669b000
 Allocation address: 0x76690000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3806,6 +4174,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x7669e000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3814,6 +4183,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\KernelBase.dll
 Base address: 0x76810000
 Allocation address: 0x76810000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3822,6 +4192,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\KernelBase.dll
 Base address: 0x76811000
 Allocation address: 0x76810000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3830,6 +4201,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\KernelBase.dll
 Base address: 0x769b4000
 Allocation address: 0x76810000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3838,6 +4210,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\KernelBase.dll
 Base address: 0x769b8000
 Allocation address: 0x76810000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3846,6 +4219,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x769e7000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3854,6 +4228,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msvcp_win.dll
 Base address: 0x769f0000
 Allocation address: 0x769f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3862,6 +4237,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msvcp_win.dll
 Base address: 0x769f1000
 Allocation address: 0x769f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3870,6 +4246,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msvcp_win.dll
 Base address: 0x76a61000
 Allocation address: 0x769f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3878,6 +4255,7 @@ State: MEM_COMMIT
 Protect: PAGE_WRITECOPY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msvcp_win.dll
 Base address: 0x76a62000
 Allocation address: 0x769f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3886,6 +4264,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msvcp_win.dll
 Base address: 0x76a64000
 Allocation address: 0x769f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3894,6 +4273,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x76a6c000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3902,6 +4282,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\gdi32.dll
 Base address: 0x76a70000
 Allocation address: 0x76a70000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3910,6 +4291,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\gdi32.dll
 Base address: 0x76a71000
 Allocation address: 0x76a70000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3918,6 +4300,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\gdi32.dll
 Base address: 0x76a8a000
 Allocation address: 0x76a70000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3926,6 +4309,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\gdi32.dll
 Base address: 0x76a8b000
 Allocation address: 0x76a70000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3934,6 +4318,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x76a92000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3942,6 +4327,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msctf.dll
 Base address: 0x76ee0000
 Allocation address: 0x76ee0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3950,6 +4336,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msctf.dll
 Base address: 0x76ee1000
 Allocation address: 0x76ee0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3958,6 +4345,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msctf.dll
 Base address: 0x76fcd000
 Allocation address: 0x76ee0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3966,6 +4354,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\msctf.dll
 Base address: 0x76fd0000
 Allocation address: 0x76ee0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3974,6 +4363,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x77024000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -3982,6 +4372,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\sechost.dll
 Base address: 0x77030000
 Allocation address: 0x77030000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3990,6 +4381,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\sechost.dll
 Base address: 0x77031000
 Allocation address: 0x77030000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -3998,6 +4390,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\sechost.dll
 Base address: 0x77068000
 Allocation address: 0x77030000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4006,6 +4399,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\sechost.dll
 Base address: 0x7706b000
 Allocation address: 0x77030000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4014,6 +4408,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x77073000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -4022,6 +4417,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ucrtbase.dll
 Base address: 0x77080000
 Allocation address: 0x77080000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4030,6 +4426,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ucrtbase.dll
 Base address: 0x77081000
 Allocation address: 0x77080000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4038,6 +4435,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ucrtbase.dll
 Base address: 0x77187000
 Allocation address: 0x77080000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4046,6 +4444,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ucrtbase.dll
 Base address: 0x77189000
 Allocation address: 0x77080000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4054,6 +4453,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x77197000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -4062,6 +4462,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\user32.dll
 Base address: 0x771a0000
 Allocation address: 0x771a0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4070,6 +4471,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\user32.dll
 Base address: 0x771a1000
 Allocation address: 0x771a0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4078,6 +4480,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\user32.dll
 Base address: 0x77222000
 Allocation address: 0x771a0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4086,6 +4489,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\user32.dll
 Base address: 0x77224000
 Allocation address: 0x771a0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4094,6 +4498,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x77315000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -4102,6 +4507,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\crypt32.dll
 Base address: 0x77320000
 Allocation address: 0x77320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4110,6 +4516,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\crypt32.dll
 Base address: 0x77321000
 Allocation address: 0x77320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4118,6 +4525,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\crypt32.dll
 Base address: 0x7740c000
 Allocation address: 0x77320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4126,6 +4534,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\crypt32.dll
 Base address: 0x77410000
 Allocation address: 0x77320000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4134,6 +4543,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x774a2000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -4142,6 +4552,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\imm32.dll
 Base address: 0x774b0000
 Allocation address: 0x774b0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4150,6 +4561,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\imm32.dll
 Base address: 0x774b1000
 Allocation address: 0x774b0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4158,6 +4570,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\imm32.dll
 Base address: 0x774ca000
 Allocation address: 0x774b0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4166,6 +4579,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\imm32.dll
 Base address: 0x774cb000
 Allocation address: 0x774b0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4174,6 +4588,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x774d5000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -4182,6 +4597,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\windows.storage.dll
 Base address: 0x774f0000
 Allocation address: 0x774f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4190,6 +4606,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\windows.storage.dll
 Base address: 0x774f1000
 Allocation address: 0x774f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4198,6 +4615,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\windows.storage.dll
 Base address: 0x77a46000
 Allocation address: 0x774f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4206,6 +4624,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\windows.storage.dll
 Base address: 0x77a4b000
 Allocation address: 0x774f0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4214,6 +4633,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x77ab6000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -4222,6 +4642,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\bcryptprimitives.dll
 Base address: 0x77ac0000
 Allocation address: 0x77ac0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4230,6 +4651,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\bcryptprimitives.dll
 Base address: 0x77ac1000
 Allocation address: 0x77ac0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4238,6 +4660,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\bcryptprimitives.dll
 Base address: 0x77b12000
 Allocation address: 0x77ac0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4246,6 +4669,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\bcryptprimitives.dll
 Base address: 0x77b13000
 Allocation address: 0x77ac0000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4254,6 +4678,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x77b17000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -4262,6 +4687,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\shlwapi.dll
 Base address: 0x77b20000
 Allocation address: 0x77b20000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4270,6 +4696,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\shlwapi.dll
 Base address: 0x77b21000
 Allocation address: 0x77b20000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4278,6 +4705,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\shlwapi.dll
 Base address: 0x77b5b000
 Allocation address: 0x77b20000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4286,6 +4714,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\shlwapi.dll
 Base address: 0x77b5c000
 Allocation address: 0x77b20000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4294,6 +4723,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x77b65000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -4302,6 +4732,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\oleaut32.dll
 Base address: 0x77b70000
 Allocation address: 0x77b70000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4310,6 +4741,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\oleaut32.dll
 Base address: 0x77b71000
 Allocation address: 0x77b70000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4318,6 +4750,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\oleaut32.dll
 Base address: 0x77bf5000
 Allocation address: 0x77b70000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4326,6 +4759,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\oleaut32.dll
 Base address: 0x77bf7000
 Allocation address: 0x77b70000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4334,6 +4768,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x77c03000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
@@ -4342,6 +4777,7 @@ State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ntdll.dll
 Base address: 0x77c10000
 Allocation address: 0x77c10000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4350,6 +4786,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ntdll.dll
 Base address: 0x77c11000
 Allocation address: 0x77c10000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4358,6 +4795,7 @@ State: MEM_COMMIT
 Protect: PAGE_EXECUTE_READ
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ntdll.dll
 Base address: 0x77d25000
 Allocation address: 0x77c10000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4366,6 +4804,7 @@ State: MEM_COMMIT
 Protect: PAGE_READWRITE
 Type: MEM_IMAGE
 
+Filename: \Device\HarddiskVolume3\Windows\SysWOW64\ntdll.dll
 Base address: 0x77d29000
 Allocation address: 0x77c10000
 Memory protection: PAGE_EXECUTE_WRITECOPY
@@ -4374,46 +4813,52 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_IMAGE
 
+Filename: 
 Base address: 0x77d9d000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 124530688
+Region size: 127873024
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
-Base address: 0x7f460000
-Allocation address: 0x7f460000
+Filename: 
+Base address: 0x7f790000
+Allocation address: 0x7f790000
 Memory protection: PAGE_READONLY
 Region size: 20480
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x7f465000
-Allocation address: 0x7f460000
+Filename: 
+Base address: 0x7f795000
+Allocation address: 0x7f790000
 Memory protection: PAGE_READONLY
 Region size: 1028096
 State: MEM_RESERVE
 Protect: PERMISSION_DENIED
 Type: MEM_MAPPED
 
-Base address: 0x7f560000
-Allocation address: 0x7f560000
+Filename: 
+Base address: 0x7f890000
+Allocation address: 0x7f890000
 Memory protection: PAGE_READONLY
 Region size: 143360
 State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_MAPPED
 
-Base address: 0x7f583000
+Filename: 
+Base address: 0x7f8b3000
 Allocation address: 0x0
 Memory protection: PERMISSION_DENIED
-Region size: 10866688
+Region size: 7524352
 State: MEM_FREE
 Protect: PAGE_NOACCESS
 Type: Unknown Type value
 
+Filename: 
 Base address: 0x7ffe0000
 Allocation address: 0x7ffe0000
 Memory protection: PAGE_READONLY
@@ -4422,6 +4867,7 @@ State: MEM_COMMIT
 Protect: PAGE_READONLY
 Type: MEM_PRIVATE
 
+Filename: 
 Base address: 0x7ffe1000
 Allocation address: 0x7ffe1000
 Memory protection: PAGE_READONLY
@@ -4434,5 +4880,5 @@ VirtualQueryEx failed, so mapping is finished - error - 87
 
 Summary
 -------------------
-Number of virtual pages: 554
+Number of virtual pages: 542
 Total region size: 0x7fff0000
