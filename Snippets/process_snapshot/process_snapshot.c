@@ -1,3 +1,22 @@
+/*
+ * process_snapshot.c
+ * Description: A simple code snippet to take a snapshot of all processes and traverse the module and thread list of each individual process.
+ *
+ * v0.0.1 Author: Microsoft (https://msdn.microsoft.com/en-us/library/windows/desktop/ms686701(v=vs.85).aspx)
+ * > v0.0.1 Author: Timothy Gan Z.
+ *
+ * Version: 0.0.2
+ * Date: 28 Feb 2018
+ *
+ * Notes:
+ *   After taking the snapshot, the MSDN article describes how we can traverse the thread, module, and heap list. However, this program does not traverse the heap.
+ *   When OpenProcess() fails, the only thing that happens is we do not get the Process Priority Class printed.
+ *   When CreateToolhelp32Snapshot() fails, the only thing that happens is we cannot enumerate the modules in a process.
+ *   CreateToolhelp32Snapshot() seems to fail on some things it does not seem like it should fail on, e.g. explorer.exe. Check out error from GetLastError().
+ *   The thread enumeration here is too basic. If we compare it to Process Explorer for example, one very important thing Process Explorer shows is the memory address (and module name) the thread is executing under.
+ *   The main thing the module enumeration here tells us is the base address/size of each module. So actually, as long as we can get the virtual memory address of where the thread got started, we should be able to calculate which module it is running under and the relative address.
+ */
+
 #include <windows.h>
 #include <tlhelp32.h>
 #include <tchar.h>
