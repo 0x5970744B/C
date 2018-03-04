@@ -1,3 +1,24 @@
+/*
+ * module_enumeration.c
+ * Description: A simple code snippet to enumerate all modules for all processes.
+ *
+ * Compilation: gcc module_enumeration.c -o module_enumeration.exe -lpsapi
+ *
+ * v0.0.1 Author: Microsoft (https://msdn.microsoft.com/en-us/library/windows/desktop/ms682621(v=vs.85).aspx)
+ * > v0.0.1 Author: Timothy Gan Z.
+ *
+ * Version: 0.0.2
+ * Date: 5 March 2018
+ *
+ * Notes:
+ *   The purpose of trying out this code was to seek an alternative method of listing the modules (previously used the snapshot method to list processes) and compare them.
+ *   For all processes except one, the "System Process" (PID=0) which the snapshot method could list the modules for, this method of module enumeration worked better or was the same. While most results were similar, there were instances where this method was able to list the modules when the snapshot method did not work.
+ *   For example, this method was able to list KAV modules while the snapshot method was blocked.
+ *   Using this alternative, we confirm that the module here means the module loaded into memory, and the "Base Address" of the module is the same address printed here, which is what we want.
+ *   So the only advantage the snapshot method has is that we can get the base size of each module, although there is probably an alternative way to calculate that.
+ *   In other words, if the snapshot method is debugged, my guess is that it is likely it is simply a wrapper function for a bunch of other calls, so we should avoid the snapshot method.
+ */
+
 #include <windows.h>
 #include <tchar.h>
 #include <stdio.h>
