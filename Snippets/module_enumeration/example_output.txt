@@ -1,0 +1,1146 @@
+
+Process ID: 0
+
+Process ID: 4
+
+Process ID: 516
+
+Process ID: 692
+
+Process ID: 792
+
+Process ID: 932
+
+Process ID: 960
+
+Process ID: 612
+
+Process ID: 904
+
+Process ID: 1044
+
+Process ID: 1100
+
+Process ID: 1144
+
+Process ID: 1304
+
+Process ID: 1312
+
+Process ID: 1384
+
+Process ID: 1408
+
+Process ID: 1552
+
+Process ID: 1584
+
+Process ID: 1596
+
+Process ID: 1664
+
+Process ID: 1780
+
+Process ID: 1792
+
+Process ID: 1808
+
+Process ID: 1816
+
+Process ID: 1832
+
+Process ID: 1976
+
+Process ID: 2020
+
+Process ID: 1200
+
+Process ID: 2056
+
+Process ID: 2088
+
+Process ID: 2096
+
+Process ID: 2188
+
+Process ID: 2276
+
+Process ID: 2292
+
+Process ID: 2396
+
+Process ID: 2436
+
+Process ID: 2444
+
+Process ID: 2532
+
+Process ID: 2688
+
+Process ID: 2732
+
+Process ID: 2832
+
+Process ID: 2884
+
+Process ID: 2128
+
+Process ID: 1932
+
+Process ID: 2364
+
+Process ID: 2556
+
+Process ID: 2476
+
+Process ID: 2932
+
+Process ID: 3096
+
+Process ID: 3120
+
+Process ID: 3140
+
+Process ID: 3264
+
+Process ID: 3276
+
+Process ID: 3292
+
+Process ID: 3356
+
+Process ID: 3364
+
+Process ID: 3372
+
+Process ID: 3380
+
+Process ID: 3444
+
+Process ID: 3452
+
+Process ID: 3468
+
+Process ID: 3476
+
+Process ID: 3644
+
+Process ID: 3948
+
+Process ID: 4092
+
+Process ID: 4100
+
+Process ID: 4200
+
+Process ID: 4368
+
+Process ID: 4476
+
+Process ID: 4628
+
+Process ID: 5384
+
+Process ID: 5484
+
+Process ID: 6240
+
+Process ID: 7048
+
+Process ID: 1156
+
+Process ID: 5436
+
+Process ID: 944
+
+Process ID: 4344
+
+Process ID: 3664
+
+Process ID: 7020
+
+Process ID: 2712
+
+Process ID: 1512
+
+Process ID: 2140
+
+Process ID: 5976
+
+Process ID: 8224
+
+Process ID: 11700
+
+Process ID: 8276
+
+Process ID: 4964
+
+Process ID: 4744
+
+Process ID: 10972
+
+Process ID: 4764
+
+Process ID: 1768
+
+Process ID: 8136
+
+Process ID: 6600
+
+Process ID: 9700
+
+Process ID: 3968
+
+Process ID: 11992
+
+Process ID: 10412
+
+Process ID: 12360
+
+Process ID: 11396
+
+Process ID: 6944
+
+Process ID: 8396
+
+Process ID: 12044
+
+Process ID: 8508
+
+Process ID: 1252
+
+Process ID: 8748
+
+Process ID: 3192
+
+Process ID: 12040
+
+Process ID: 12420
+
+Process ID: 9328
+
+Process ID: 3108
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\avpui.exe (0x00E70000)
+	C:\WINDOWS\SYSTEM32\ntdll.dll (0x77C10000)
+	C:\WINDOWS\System32\KERNEL32.DLL (0x75FE0000)
+	C:\WINDOWS\System32\KERNELBASE.dll (0x76810000)
+	C:\WINDOWS\System32\ADVAPI32.dll (0x75BB0000)
+	C:\WINDOWS\System32\msvcrt.dll (0x764F0000)
+	C:\WINDOWS\System32\sechost.dll (0x77030000)
+	C:\WINDOWS\System32\RPCRT4.dll (0x76320000)
+	C:\WINDOWS\System32\SspiCli.dll (0x74630000)
+	C:\WINDOWS\System32\CRYPTBASE.dll (0x74620000)
+	C:\WINDOWS\System32\bcryptPrimitives.dll (0x77AC0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\ushata.dll (0x72D50000)
+	C:\WINDOWS\System32\USER32.dll (0x771A0000)
+	C:\WINDOWS\System32\win32u.dll (0x764D0000)
+	C:\WINDOWS\SYSTEM32\VERSION.dll (0x73EE0000)
+	C:\WINDOWS\System32\GDI32.dll (0x76A70000)
+	C:\WINDOWS\System32\gdi32full.dll (0x76180000)
+	C:\WINDOWS\System32\msvcp_win.dll (0x769F0000)
+	C:\WINDOWS\System32\ucrtbase.dll (0x77080000)
+	C:\WINDOWS\System32\ole32.dll (0x759F0000)
+	C:\WINDOWS\System32\combase.dll (0x75C30000)
+	C:\WINDOWS\System32\IMM32.DLL (0x774B0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\avpuimain.dll (0x6C050000)
+	C:\WINDOWS\System32\CRYPT32.dll (0x77320000)
+	C:\WINDOWS\System32\MSASN1.dll (0x76690000)
+	C:\WINDOWS\SYSTEM32\FLTLIB.DLL (0x72CA0000)
+	C:\WINDOWS\SYSTEM32\USERENV.dll (0x74490000)
+	C:\WINDOWS\System32\SHELL32.dll (0x74650000)
+	C:\WINDOWS\System32\profapi.dll (0x75AF0000)
+	C:\WINDOWS\System32\cfgmgr32.dll (0x762E0000)
+	C:\WINDOWS\System32\shcore.dll (0x76440000)
+	C:\WINDOWS\System32\windows.storage.dll (0x774F0000)
+	C:\WINDOWS\System32\shlwapi.dll (0x77B20000)
+	C:\WINDOWS\System32\kernel.appcore.dll (0x75FD0000)
+	C:\WINDOWS\System32\powrprof.dll (0x765B0000)
+	C:\WINDOWS\System32\OLEAUT32.dll (0x77B70000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\VCRUNTIME140.dll (0x72E10000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\MSVCP140.dll (0x72DA0000)
+	C:\WINDOWS\SYSTEM32\CRYPTUI.dll (0x73170000)
+	C:\WINDOWS\SYSTEM32\bcrypt.dll (0x73320000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\product_info.dll (0x72E50000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\DumpWriter.dll (0x72C40000)
+	C:\WINDOWS\System32\PSAPI.DLL (0x75B10000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\prremote.DLL (0x72CD0000)
+	C:\WINDOWS\System32\WS2_32.dll (0x760B0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\prcore.dll (0x72AF0000)
+	C:\WINDOWS\SYSTEM32\ntmarta.dll (0x72790000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\winreg.ppl (0x72CC0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\pxstub.ppl (0x72CB0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\params.ppl (0x727E0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\instrumental_services.dll (0x724E0000)
+	C:\WINDOWS\SYSTEM32\WTSAPI32.dll (0x744C0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\dblite.dll (0x72920000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\kl_service.dll (0x6F7E0000)
+	C:\WINDOWS\system32\uxtheme.dll (0x6D4F0000)
+	C:\WINDOWS\System32\MSCTF.dll (0x76EE0000)
+	C:\WINDOWS\system32\dwmapi.dll (0x70DA0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\avpservice.dll (0x72E30000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\product_metainfo.DLL (0x721A0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\ac_meta.DLL (0x72990000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\sw_meta.DLL (0x72150000)
+	C:\WINDOWS\System32\clbcatq.dll (0x76600000)
+	C:\Windows\System32\twinapi.dll (0x6E180000)
+	C:\Windows\System32\TextInputFramework.dll (0x6D6A0000)
+	C:\Windows\System32\CoreMessaging.dll (0x6D5D0000)
+	C:\Windows\System32\CoreUIComponents.dll (0x69A50000)
+	C:\WINDOWS\SYSTEM32\wintypes.dll (0x6E060000)
+	C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll (0x69360000)
+	C:\WINDOWS\SYSTEM32\MSVCR120_CLR0400.dll (0x69260000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\KasperskyLab.Kis.UI.Loader.dll (0x691E0000)
+	C:\WINDOWS\SYSTEM32\mscoree.dll (0x71130000)
+	C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll (0x706D0000)
+	C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll (0x670B0000)
+	C:\WINDOWS\SYSTEM32\atlthunk.dll (0x6C970000)
+	C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll (0x56E80000)
+	C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll (0x573C0000)
+	C:\WINDOWS\SYSTEM32\CRYPTSP.dll (0x71B50000)
+	C:\WINDOWS\system32\rsaenh.dll (0x71B20000)
+	C:\WINDOWS\SYSTEM32\dwrite.dll (0x60700000)
+	C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll (0x56D30000)
+	C:\WINDOWS\SYSTEM32\MSVCP120_CLR0400.dll (0x56CB0000)
+	C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\PresentationNative_v0400.dll (0x56BE0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\KasperskyLab.Platform.NativeInterop.dll (0x56600000)
+	C:\WINDOWS\SYSTEM32\urlmon.dll (0x6DED0000)
+	C:\WINDOWS\System32\imagehlp.dll (0x75E80000)
+	C:\WINDOWS\SYSTEM32\iertutil.dll (0x6D920000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\plugins_meta.DLL (0x720F0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\system_interceptors_meta.DLL (0x720B0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\instrumental_meta.DLL (0x573A0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\content_filtering_meta.DLL (0x72460000)
+	C:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\PenIMC2_v0400.dll (0x57380000)
+	C:\WINDOWS\SYSTEM32\WINSTA.dll (0x718E0000)
+	C:\WINDOWS\SYSTEM32\msiso.dll (0x70DD0000)
+	C:\WINDOWS\SYSTEM32\WindowsCodecs.dll (0x580E0000)
+	C:\WINDOWS\SYSTEM32\sxs.dll (0x56570000)
+	C:\WINDOWS\SYSTEM32\d3d9.dll (0x66D70000)
+	C:\WINDOWS\SYSTEM32\igdumdim32.dll (0x58E40000)
+	C:\WINDOWS\SYSTEM32\igdusc32.dll (0x656E0000)
+	C:\WINDOWS\system32\dataexchange.dll (0x6E130000)
+	C:\WINDOWS\system32\d3d11.dll (0x665A0000)
+	C:\WINDOWS\system32\dxgi.dll (0x667E0000)
+	C:\WINDOWS\system32\dcomp.dll (0x650A0000)
+	C:\WINDOWS\system32\twinapi.appcore.dll (0x64F60000)
+	C:\WINDOWS\system32\RMCLIENT.dll (0x6DDB0000)
+	C:\WINDOWS\system32\msctfui.dll (0x56550000)
+	C:\WINDOWS\SYSTEM32\UIAutomationCore.dll (0x562F0000)
+	C:\Program Files (x86)\Kaspersky Lab\Kaspersky Free 18.0.0\vkbd.dll (0x56290000)
+	C:\Windows\System32\Windows.ApplicationModel.dll (0x56200000)
+	C:\Windows\System32\wpnapps.dll (0x56100000)
+	C:\Windows\System32\XmlLite.dll (0x560D0000)
+	C:\WINDOWS\SYSTEM32\WINMM.dll (0x737D0000)
+	C:\WINDOWS\SYSTEM32\winmmbase.dll (0x737A0000)
+	C:\WINDOWS\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.16299.248_none_8e66fbc1026df8ab\gdiplus.dll (0x6D7B0000)
+	C:\WINDOWS\SYSTEM32\usermgrcli.dll (0x6FCA0000)
+	C:\Windows\System32\OneCoreUAPCommonProxyStub.dll (0x579C0000)
+	C:\Windows\System32\msxml6.dll (0x55AF0000)
+	C:\Windows\System32\appresolver.dll (0x5A440000)
+	C:\Windows\System32\elscore.dll (0x66EE0000)
+	C:\Windows\System32\PROPSYS.dll (0x70B00000)
+	C:\Windows\System32\Bcp47Langs.dll (0x5A3F0000)
+	C:\Windows\System32\SLC.dll (0x5A3C0000)
+	C:\Windows\System32\sppc.dll (0x5A3A0000)
+	C:\WINDOWS\System32\LINKINFO.dll (0x6FE20000)
+	C:\WINDOWS\System32\CLDAPI.dll (0x70AD0000)
+	C:\WINDOWS\System32\AEPIC.dll (0x70A90000)
+	C:\WINDOWS\System32\ntshrui.dll (0x578B0000)
+	C:\WINDOWS\System32\srvcli.dll (0x6FF40000)
+	C:\WINDOWS\SYSTEM32\cscapi.dll (0x6F7C0000)
+	C:\WINDOWS\SYSTEM32\policymanager.dll (0x57840000)
+	C:\WINDOWS\System32\msvcp110_win.dll (0x577D0000)
+	C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\comctl32.dll (0x6DB40000)
+	C:\WINDOWS\SYSTEM32\WININET.dll (0x734D0000)
+	C:\WINDOWS\SYSTEM32\ondemandconnroutehelper.dll (0x56080000)
+	C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL (0x73340000)
+	C:\WINDOWS\SYSTEM32\winhttp.dll (0x73200000)
+	C:\WINDOWS\system32\mswsock.dll (0x71A50000)
+	C:\WINDOWS\SYSTEM32\WINNSI.DLL (0x70ED0000)
+	C:\WINDOWS\System32\NSI.dll (0x774E0000)
+	C:\Windows\System32\ActXPrxy.dll (0x56030000)
+
+Process ID: 5840
+
+Process ID: 6840
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\Freedome.exe (0x01010000)
+	C:\WINDOWS\SYSTEM32\ntdll.dll (0x77C10000)
+	C:\WINDOWS\System32\KERNEL32.DLL (0x75FE0000)
+	C:\WINDOWS\System32\KERNELBASE.dll (0x76810000)
+	C:\WINDOWS\System32\ADVAPI32.dll (0x75BB0000)
+	C:\WINDOWS\System32\msvcrt.dll (0x764F0000)
+	C:\WINDOWS\System32\sechost.dll (0x77030000)
+	C:\WINDOWS\System32\RPCRT4.dll (0x76320000)
+	C:\WINDOWS\System32\SspiCli.dll (0x74630000)
+	C:\WINDOWS\System32\CRYPTBASE.dll (0x74620000)
+	C:\WINDOWS\System32\bcryptPrimitives.dll (0x77AC0000)
+	C:\WINDOWS\System32\SHELL32.dll (0x74650000)
+	C:\WINDOWS\System32\cfgmgr32.dll (0x762E0000)
+	C:\WINDOWS\System32\ucrtbase.dll (0x77080000)
+	C:\WINDOWS\System32\shcore.dll (0x76440000)
+	C:\WINDOWS\System32\combase.dll (0x75C30000)
+	C:\WINDOWS\System32\windows.storage.dll (0x774F0000)
+	C:\WINDOWS\System32\shlwapi.dll (0x77B20000)
+	C:\WINDOWS\System32\GDI32.dll (0x76A70000)
+	C:\WINDOWS\System32\gdi32full.dll (0x76180000)
+	C:\WINDOWS\System32\msvcp_win.dll (0x769F0000)
+	C:\WINDOWS\System32\USER32.dll (0x771A0000)
+	C:\WINDOWS\System32\win32u.dll (0x764D0000)
+	C:\WINDOWS\System32\kernel.appcore.dll (0x75FD0000)
+	C:\WINDOWS\System32\powrprof.dll (0x765B0000)
+	C:\WINDOWS\System32\profapi.dll (0x75AF0000)
+	C:\WINDOWS\System32\WINTRUST.dll (0x75EA0000)
+	C:\WINDOWS\System32\MSASN1.dll (0x76690000)
+	C:\WINDOWS\System32\CRYPT32.dll (0x77320000)
+	C:\WINDOWS\System32\ole32.dll (0x759F0000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\Qt5Core.dll (0x73A70000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\fs_ccf_datapipeline_32.dll (0x6FD10000)
+	C:\WINDOWS\System32\WS2_32.dll (0x760B0000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\fsvpnprivatesdk.dll (0x6FCD0000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\Qt5OpenGL.dll (0x6FC30000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\Qt5Quick.dll (0x6AEB0000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\Qt5Widgets.dll (0x6B110000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\Qt5Network.dll (0x73370000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\Qt5Qml.dll (0x6AC30000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\MSVCR120.dll (0x73800000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\MSVCP120.dll (0x73910000)
+	C:\WINDOWS\SYSTEM32\WINHTTP.dll (0x73200000)
+	C:\WINDOWS\SYSTEM32\MPR.dll (0x738F0000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\CCFIPC.dll (0x734A0000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\LIBEAY32.dll (0x71D50000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\Qt5Gui.dll (0x6A780000)
+	C:\WINDOWS\SYSTEM32\bcrypt.dll (0x73320000)
+	C:\WINDOWS\SYSTEM32\VERSION.dll (0x73EE0000)
+	C:\WINDOWS\SYSTEM32\DNSAPI.dll (0x72F00000)
+	C:\WINDOWS\System32\NSI.dll (0x774E0000)
+	C:\WINDOWS\System32\IMM32.DLL (0x774B0000)
+	C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL (0x73340000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\platforms\qwindows.dll (0x6D330000)
+	C:\WINDOWS\System32\OLEAUT32.dll (0x77B70000)
+	C:\WINDOWS\SYSTEM32\WINMM.dll (0x737D0000)
+	C:\WINDOWS\SYSTEM32\winmmbase.dll (0x737A0000)
+	C:\WINDOWS\system32\uxtheme.dll (0x6D4F0000)
+	C:\WINDOWS\system32\dwmapi.dll (0x70DA0000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\imageformats\qsvg.dll (0x71390000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\Qt5Svg.dll (0x6E8B0000)
+	C:\WINDOWS\System32\MSCTF.dll (0x76EE0000)
+	C:\WINDOWS\SYSTEM32\CLDAPI.dll (0x70AD0000)
+	C:\WINDOWS\SYSTEM32\AEPIC.dll (0x70A90000)
+	C:\WINDOWS\SYSTEM32\FLTLIB.DLL (0x72CA0000)
+	C:\WINDOWS\SYSTEM32\cryptsp.dll (0x71B50000)
+	C:\WINDOWS\SYSTEM32\ntmarta.dll (0x72790000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\QtQuick.2\qtquick2plugin.dll (0x711A0000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\QtQuick\Controls\qtquickcontrolsplugin.dll (0x67000000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\QtQuick\Window.2\windowplugin.dll (0x71120000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\QtQuick\Layouts\qquicklayoutsplugin.dll (0x6FCB0000)
+	C:\WINDOWS\system32\d3d9.dll (0x66D70000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\libEGL.dll (0x70C80000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\libGLESv2.dll (0x66BE0000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\d3dcompiler_47.dll (0x66880000)
+	C:\WINDOWS\SYSTEM32\dxgi.dll (0x667E0000)
+	C:\WINDOWS\SYSTEM32\d3d11.dll (0x665A0000)
+	C:\WINDOWS\SYSTEM32\igd10iumd32.dll (0x65A60000)
+	C:\WINDOWS\SYSTEM32\ncrypt.dll (0x71430000)
+	C:\WINDOWS\SYSTEM32\NTASN1.dll (0x71400000)
+	C:\WINDOWS\SYSTEM32\igdusc32.dll (0x656E0000)
+	C:\WINDOWS\System32\clbcatq.dll (0x76600000)
+	C:\WINDOWS\system32\dataexchange.dll (0x6E130000)
+	C:\WINDOWS\system32\dcomp.dll (0x650A0000)
+	C:\WINDOWS\system32\twinapi.appcore.dll (0x64F60000)
+	C:\WINDOWS\system32\RMCLIENT.dll (0x6DDB0000)
+	C:\Program Files (x86)\F-Secure\Freedome\Freedome\1.1\ssleay32.dll (0x70EE0000)
+	C:\WINDOWS\system32\rsaenh.dll (0x71B20000)
+	C:\WINDOWS\system32\mswsock.dll (0x71A50000)
+	C:\Windows\System32\rasadhlp.dll (0x709D0000)
+	C:\WINDOWS\System32\imagehlp.dll (0x75E80000)
+	C:\WINDOWS\SYSTEM32\gpapi.dll (0x709B0000)
+	C:\WINDOWS\SYSTEM32\cryptnet.dll (0x70970000)
+	C:\WINDOWS\SYSTEM32\WINNSI.DLL (0x70ED0000)
+	C:\WINDOWS\System32\TextInputFramework.dll (0x6D6A0000)
+	C:\WINDOWS\System32\CoreUIComponents.dll (0x69A50000)
+	C:\WINDOWS\System32\CoreMessaging.dll (0x6D5D0000)
+	C:\WINDOWS\SYSTEM32\wintypes.dll (0x6E060000)
+
+Process ID: 3548
+
+Process ID: 1708
+
+Process ID: 4944
+
+Process ID: 2412
+
+Process ID: 4196
+
+Process ID: 9196
+
+Process ID: 7824
+
+Process ID: 10208
+
+Process ID: 9796
+	C:\Program Files (x86)\Steam\Steam.exe (0x00B30000)
+	C:\WINDOWS\SYSTEM32\ntdll.dll (0x77C10000)
+	C:\WINDOWS\System32\KERNEL32.DLL (0x75FE0000)
+	C:\WINDOWS\System32\KERNELBASE.dll (0x76810000)
+	C:\WINDOWS\System32\USER32.dll (0x771A0000)
+	C:\WINDOWS\System32\win32u.dll (0x764D0000)
+	C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\COMCTL32.dll (0x6DB40000)
+	C:\WINDOWS\System32\GDI32.dll (0x76A70000)
+	C:\WINDOWS\System32\msvcrt.dll (0x764F0000)
+	C:\WINDOWS\System32\gdi32full.dll (0x76180000)
+	C:\WINDOWS\System32\msvcp_win.dll (0x769F0000)
+	C:\WINDOWS\System32\combase.dll (0x75C30000)
+	C:\WINDOWS\System32\ucrtbase.dll (0x77080000)
+	C:\WINDOWS\System32\RPCRT4.dll (0x76320000)
+	C:\WINDOWS\System32\SspiCli.dll (0x74630000)
+	C:\WINDOWS\System32\ADVAPI32.dll (0x75BB0000)
+	C:\WINDOWS\System32\CRYPTBASE.dll (0x74620000)
+	C:\WINDOWS\System32\sechost.dll (0x77030000)
+	C:\WINDOWS\System32\bcryptPrimitives.dll (0x77AC0000)
+	C:\WINDOWS\System32\SHELL32.dll (0x74650000)
+	C:\WINDOWS\System32\cfgmgr32.dll (0x762E0000)
+	C:\WINDOWS\System32\shcore.dll (0x76440000)
+	C:\WINDOWS\System32\windows.storage.dll (0x774F0000)
+	C:\WINDOWS\System32\shlwapi.dll (0x77B20000)
+	C:\WINDOWS\System32\kernel.appcore.dll (0x75FD0000)
+	C:\WINDOWS\System32\powrprof.dll (0x765B0000)
+	C:\WINDOWS\System32\profapi.dll (0x75AF0000)
+	C:\WINDOWS\System32\OLEAUT32.dll (0x77B70000)
+	C:\WINDOWS\System32\WS2_32.dll (0x760B0000)
+	C:\WINDOWS\System32\PSAPI.DLL (0x75B10000)
+	C:\WINDOWS\SYSTEM32\VERSION.dll (0x73EE0000)
+	C:\WINDOWS\SYSTEM32\WSOCK32.dll (0x72FB0000)
+	C:\WINDOWS\SYSTEM32\MSWSOCK.DLL (0x71A50000)
+	C:\WINDOWS\System32\IMM32.DLL (0x774B0000)
+	C:\Program Files (x86)\Steam\crashhandler.dll (0x655B0000)
+	C:\WINDOWS\SYSTEM32\WININET.dll (0x734D0000)
+	C:\WINDOWS\system32\uxtheme.dll (0x6D4F0000)
+	C:\WINDOWS\System32\MSCTF.dll (0x76EE0000)
+	C:\WINDOWS\system32\dwmapi.dll (0x70DA0000)
+	C:\WINDOWS\System32\TextInputFramework.dll (0x6D6A0000)
+	C:\WINDOWS\System32\CoreUIComponents.dll (0x69A50000)
+	C:\WINDOWS\System32\CoreMessaging.dll (0x6D5D0000)
+	C:\WINDOWS\SYSTEM32\ntmarta.dll (0x72790000)
+	C:\WINDOWS\SYSTEM32\wintypes.dll (0x6E060000)
+	C:\WINDOWS\System32\ole32.dll (0x759F0000)
+	C:\WINDOWS\System32\clbcatq.dll (0x76600000)
+	C:\Program Files (x86)\Steam\steamui.dll (0x62290000)
+	C:\WINDOWS\System32\COMDLG32.dll (0x75EF0000)
+	C:\WINDOWS\SYSTEM32\WINMM.dll (0x737D0000)
+	C:\Program Files (x86)\Steam\SDL2.dll (0x621C0000)
+	C:\Program Files (x86)\Steam\tier0_s.dll (0x620A0000)
+	C:\Program Files (x86)\Steam\v8.dll (0x61BD0000)
+	C:\Program Files (x86)\Steam\vstdlib_s.dll (0x6D570000)
+	C:\Program Files (x86)\Steam\video.dll (0x61870000)
+	C:\WINDOWS\SYSTEM32\WINMMBASE.dll (0x737A0000)
+	C:\Program Files (x86)\Steam\icuuc.dll (0x61740000)
+	C:\Program Files (x86)\Steam\icui18n.dll (0x615B0000)
+	C:\Program Files (x86)\Steam\libavformat-57.dll (0x60E50000)
+	C:\Program Files (x86)\Steam\libavresample-3.dll (0x6CCC0000)
+	C:\Program Files (x86)\Steam\libavcodec-57.dll (0x60F00000)
+	C:\Program Files (x86)\Steam\libavutil-55.dll (0x60D60000)
+	C:\Program Files (x86)\Steam\libswscale-4.dll (0x60C90000)
+	C:\WINDOWS\SYSTEM32\OPENGL32.dll (0x60BB0000)
+	C:\WINDOWS\SYSTEM32\GLU32.dll (0x6F9D0000)
+	C:\Windows\System32\dinput8.dll (0x6C930000)
+	C:\WINDOWS\SYSTEM32\inputhost.dll (0x651E0000)
+	C:\WINDOWS\SYSTEM32\HID.DLL (0x713C0000)
+	C:\WINDOWS\System32\SETUPAPI.DLL (0x76AB0000)
+	C:\WINDOWS\SYSTEM32\DEVOBJ.dll (0x72FC0000)
+	C:\WINDOWS\System32\WINTRUST.dll (0x75EA0000)
+	C:\WINDOWS\System32\MSASN1.dll (0x76690000)
+	C:\WINDOWS\System32\CRYPT32.dll (0x77320000)
+	C:\WINDOWS\SYSTEM32\XInput1_4.dll (0x70AF0000)
+	C:\Program Files (x86)\Steam\bin\filesystem_stdio.DLL (0x651B0000)
+	C:\Program Files (x86)\Steam\bin\vgui2_s.DLL (0x60A70000)
+	C:\WINDOWS\SYSTEM32\MSIMG32.dll (0x6F990000)
+	C:\Program Files (x86)\Steam\bin\chromehtml.DLL (0x60980000)
+	C:\WINDOWS\system32\dataexchange.dll (0x6E130000)
+	C:\WINDOWS\system32\dcomp.dll (0x650A0000)
+	C:\WINDOWS\system32\d3d11.dll (0x665A0000)
+	C:\WINDOWS\system32\dxgi.dll (0x667E0000)
+	C:\WINDOWS\system32\twinapi.appcore.dll (0x64F60000)
+	C:\WINDOWS\system32\RMCLIENT.dll (0x6DDB0000)
+	C:\WINDOWS\system32\bcrypt.dll (0x73320000)
+	C:\WINDOWS\SYSTEM32\DWrite.dll (0x60700000)
+	C:\Program Files (x86)\Steam\steamclient.dll (0x59840000)
+	C:\WINDOWS\System32\imagehlp.dll (0x75E80000)
+	C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL (0x73340000)
+	C:\WINDOWS\SYSTEM32\Secur32.dll (0x71EF0000)
+	C:\WINDOWS\System32\NSI.dll (0x774E0000)
+	C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL (0x71B70000)
+	C:\WINDOWS\SYSTEM32\Wlanapi.dll (0x72EA0000)
+	C:\WINDOWS\system32\wbem\wbemprox.dll (0x719A0000)
+	C:\WINDOWS\SYSTEM32\wbemcomn.dll (0x71930000)
+	C:\WINDOWS\SYSTEM32\MMDevAPI.DLL (0x5AC10000)
+	C:\WINDOWS\SYSTEM32\PROPSYS.dll (0x70B00000)
+	C:\WINDOWS\SYSTEM32\wdmaud.drv (0x5B020000)
+	C:\WINDOWS\SYSTEM32\ksuser.dll (0x70950000)
+	C:\WINDOWS\SYSTEM32\AVRT.dll (0x70050000)
+	C:\WINDOWS\system32\wbem\wbemsvc.dll (0x718D0000)
+	C:\WINDOWS\SYSTEM32\dsound.dll (0x5AFA0000)
+	C:\WINDOWS\system32\wbem\fastprox.dll (0x70FC0000)
+	C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL (0x71B90000)
+	C:\WINDOWS\SYSTEM32\winhttp.dll (0x73200000)
+	C:\WINDOWS\system32\napinsp.dll (0x70A30000)
+	C:\WINDOWS\system32\pnrpnsp.dll (0x70A10000)
+	C:\WINDOWS\system32\NLAapi.dll (0x709F0000)
+	C:\WINDOWS\SYSTEM32\DNSAPI.dll (0x72F00000)
+	C:\WINDOWS\System32\winrnr.dll (0x709E0000)
+	C:\WINDOWS\System32\fwpuclnt.dll (0x73450000)
+	C:\Windows\System32\rasadhlp.dll (0x709D0000)
+	C:\WINDOWS\SYSTEM32\CRYPTSP.dll (0x71B50000)
+	C:\WINDOWS\system32\rsaenh.dll (0x71B20000)
+	C:\WINDOWS\SYSTEM32\gpapi.dll (0x709B0000)
+	C:\Windows\System32\cryptnet.dll (0x70970000)
+	C:\WINDOWS\SYSTEM32\WINNSI.DLL (0x70ED0000)
+	C:\WINDOWS\system32\explorerframe.dll (0x57CA0000)
+	C:\Windows\System32\OneCoreUAPCommonProxyStub.dll (0x579C0000)
+	C:\WINDOWS\SYSTEM32\webio.dll (0x6C2E0000)
+	C:\Windows\System32\appresolver.dll (0x5A440000)
+	C:\Windows\System32\USERENV.dll (0x74490000)
+	C:\Windows\System32\urlmon.dll (0x6DED0000)
+	C:\Windows\System32\iertutil.dll (0x6D920000)
+	C:\Windows\System32\elscore.dll (0x66EE0000)
+	C:\Windows\System32\Bcp47Langs.dll (0x5A3F0000)
+	C:\Windows\System32\SLC.dll (0x5A3C0000)
+	C:\Windows\System32\sppc.dll (0x5A3A0000)
+	C:\WINDOWS\SYSTEM32\LINKINFO.dll (0x6FE20000)
+	C:\Windows\System32\OneCoreCommonProxyStub.dll (0x57980000)
+	C:\WINDOWS\SYSTEM32\CLDAPI.dll (0x70AD0000)
+	C:\WINDOWS\SYSTEM32\AEPIC.dll (0x70A90000)
+	C:\WINDOWS\SYSTEM32\FLTLIB.DLL (0x72CA0000)
+	C:\WINDOWS\SYSTEM32\ntshrui.dll (0x578B0000)
+	C:\WINDOWS\SYSTEM32\srvcli.dll (0x6FF40000)
+	C:\WINDOWS\SYSTEM32\cscapi.dll (0x6F7C0000)
+	C:\WINDOWS\SYSTEM32\policymanager.dll (0x57840000)
+	C:\WINDOWS\SYSTEM32\msvcp110_win.dll (0x577D0000)
+	c:\program files (x86)\steam\bin\friendsui.DLL (0x57460000)
+	c:\program files (x86)\steam\bin\serverbrowser.DLL (0x571D0000)
+	C:\Program Files (x86)\Steam\openvr_api.dll (0x57410000)
+	C:\WINDOWS\System32\audioses.dll (0x5AC70000)
+
+Process ID: 1164
+	C:\Program Files (x86)\VMware\VMware Workstation\vmware-tray.exe (0x012F0000)
+	C:\WINDOWS\SYSTEM32\ntdll.dll (0x77C10000)
+	C:\WINDOWS\System32\KERNEL32.DLL (0x75FE0000)
+	C:\WINDOWS\System32\KERNELBASE.dll (0x76810000)
+	C:\WINDOWS\System32\USER32.dll (0x771A0000)
+	C:\WINDOWS\System32\win32u.dll (0x764D0000)
+	C:\WINDOWS\System32\GDI32.dll (0x76A70000)
+	C:\WINDOWS\System32\gdi32full.dll (0x76180000)
+	C:\WINDOWS\System32\msvcp_win.dll (0x769F0000)
+	C:\WINDOWS\System32\ucrtbase.dll (0x77080000)
+	C:\WINDOWS\System32\ADVAPI32.dll (0x75BB0000)
+	C:\WINDOWS\System32\msvcrt.dll (0x764F0000)
+	C:\WINDOWS\System32\sechost.dll (0x77030000)
+	C:\WINDOWS\System32\RPCRT4.dll (0x76320000)
+	C:\WINDOWS\System32\SspiCli.dll (0x74630000)
+	C:\WINDOWS\System32\CRYPTBASE.dll (0x74620000)
+	C:\WINDOWS\System32\bcryptPrimitives.dll (0x77AC0000)
+	C:\WINDOWS\System32\ole32.dll (0x759F0000)
+	C:\WINDOWS\System32\combase.dll (0x75C30000)
+	C:\WINDOWS\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9317_none_508dca76bcbcfe81\MSVCR90.dll (0x744D0000)
+	C:\WINDOWS\System32\SHELL32.dll (0x74650000)
+	C:\WINDOWS\System32\cfgmgr32.dll (0x762E0000)
+	C:\WINDOWS\System32\shcore.dll (0x76440000)
+	C:\WINDOWS\WinSxS\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9317_none_508dca76bcbcfe81\MSVCP90.dll (0x66F70000)
+	C:\WINDOWS\System32\windows.storage.dll (0x774F0000)
+	C:\WINDOWS\System32\shlwapi.dll (0x77B20000)
+	C:\WINDOWS\System32\kernel.appcore.dll (0x75FD0000)
+	C:\WINDOWS\System32\powrprof.dll (0x765B0000)
+	C:\WINDOWS\System32\profapi.dll (0x75AF0000)
+	C:\WINDOWS\System32\OLEAUT32.dll (0x77B70000)
+	C:\WINDOWS\System32\IMM32.DLL (0x774B0000)
+	C:\WINDOWS\system32\uxtheme.dll (0x6D4F0000)
+	C:\WINDOWS\System32\MSCTF.dll (0x76EE0000)
+	C:\WINDOWS\system32\dwmapi.dll (0x70DA0000)
+
+Process ID: 8284
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\steamwebhelper.exe (0x00FF0000)
+	C:\WINDOWS\SYSTEM32\ntdll.dll (0x77C10000)
+	C:\WINDOWS\System32\KERNEL32.DLL (0x75FE0000)
+	C:\WINDOWS\System32\KERNELBASE.dll (0x76810000)
+	C:\WINDOWS\System32\SHLWAPI.dll (0x77B20000)
+	C:\WINDOWS\System32\msvcrt.dll (0x764F0000)
+	C:\WINDOWS\System32\combase.dll (0x75C30000)
+	C:\WINDOWS\System32\ucrtbase.dll (0x77080000)
+	C:\WINDOWS\System32\RPCRT4.dll (0x76320000)
+	C:\WINDOWS\System32\SspiCli.dll (0x74630000)
+	C:\WINDOWS\System32\CRYPTBASE.dll (0x74620000)
+	C:\WINDOWS\System32\bcryptPrimitives.dll (0x77AC0000)
+	C:\WINDOWS\System32\sechost.dll (0x77030000)
+	C:\WINDOWS\System32\GDI32.dll (0x76A70000)
+	C:\WINDOWS\System32\gdi32full.dll (0x76180000)
+	C:\WINDOWS\System32\msvcp_win.dll (0x769F0000)
+	C:\WINDOWS\System32\USER32.dll (0x771A0000)
+	C:\WINDOWS\System32\win32u.dll (0x764D0000)
+	C:\WINDOWS\System32\ADVAPI32.dll (0x75BB0000)
+	C:\WINDOWS\System32\SHELL32.dll (0x74650000)
+	C:\WINDOWS\System32\cfgmgr32.dll (0x762E0000)
+	C:\WINDOWS\System32\shcore.dll (0x76440000)
+	C:\WINDOWS\SYSTEM32\WINMM.dll (0x737D0000)
+	C:\WINDOWS\System32\windows.storage.dll (0x774F0000)
+	C:\WINDOWS\System32\kernel.appcore.dll (0x75FD0000)
+	C:\WINDOWS\System32\powrprof.dll (0x765B0000)
+	C:\WINDOWS\System32\profapi.dll (0x75AF0000)
+	C:\WINDOWS\System32\ole32.dll (0x759F0000)
+	C:\WINDOWS\SYSTEM32\winmmbase.dll (0x737A0000)
+	C:\WINDOWS\System32\OLEAUT32.dll (0x77B70000)
+	C:\WINDOWS\System32\PSAPI.DLL (0x75B10000)
+	C:\WINDOWS\System32\WS2_32.dll (0x760B0000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\SDL2.dll (0x60650000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\libcef.dll (0x5C060000)
+	C:\WINDOWS\System32\IMM32.dll (0x774B0000)
+	C:\WINDOWS\System32\WINTRUST.dll (0x75EA0000)
+	C:\WINDOWS\System32\MSASN1.dll (0x76690000)
+	C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\COMCTL32.dll (0x6DB40000)
+	C:\WINDOWS\System32\CRYPT32.dll (0x77320000)
+	C:\WINDOWS\SYSTEM32\OLEACC.dll (0x70E30000)
+	C:\WINDOWS\SYSTEM32\USERENV.dll (0x74490000)
+	C:\WINDOWS\System32\COMDLG32.dll (0x75EF0000)
+	C:\WINDOWS\SYSTEM32\VERSION.dll (0x73EE0000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\chrome_elf.dll (0x5BFE0000)
+	C:\WINDOWS\SYSTEM32\dbghelp.dll (0x6C980000)
+	C:\WINDOWS\SYSTEM32\USP10.dll (0x6EAD0000)
+	C:\WINDOWS\SYSTEM32\CRYPTUI.dll (0x73170000)
+	C:\WINDOWS\SYSTEM32\dwmapi.dll (0x70DA0000)
+	C:\WINDOWS\SYSTEM32\NETAPI32.dll (0x71ED0000)
+	C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL (0x71B70000)
+	C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL (0x73340000)
+	C:\WINDOWS\System32\NSI.dll (0x774E0000)
+	C:\WINDOWS\SYSTEM32\ncrypt.dll (0x71430000)
+	C:\WINDOWS\SYSTEM32\Secur32.dll (0x71EF0000)
+	C:\WINDOWS\SYSTEM32\urlmon.dll (0x6DED0000)
+	C:\WINDOWS\SYSTEM32\WINHTTP.dll (0x73200000)
+	C:\WINDOWS\System32\imagehlp.dll (0x75E80000)
+	C:\WINDOWS\SYSTEM32\d3d9.dll (0x66D70000)
+	C:\WINDOWS\SYSTEM32\d3d11.dll (0x665A0000)
+	C:\WINDOWS\SYSTEM32\dxva2.dll (0x6E890000)
+	C:\WINDOWS\SYSTEM32\WTSAPI32.dll (0x744C0000)
+	C:\WINDOWS\SYSTEM32\dxgi.dll (0x667E0000)
+	C:\WINDOWS\SYSTEM32\WINSPOOL.DRV (0x732B0000)
+	C:\WINDOWS\SYSTEM32\bcrypt.dll (0x73320000)
+	C:\WINDOWS\SYSTEM32\NTASN1.dll (0x71400000)
+	C:\WINDOWS\SYSTEM32\iertutil.dll (0x6D920000)
+	C:\WINDOWS\SYSTEM32\DWrite.dll (0x60700000)
+	C:\WINDOWS\SYSTEM32\SAMCLI.DLL (0x71EB0000)
+	C:\WINDOWS\SYSTEM32\NETUTILS.DLL (0x71EA0000)
+	C:\WINDOWS\SYSTEM32\ntmarta.dll (0x72790000)
+	C:\WINDOWS\system32\uxtheme.dll (0x6D4F0000)
+	C:\WINDOWS\System32\MSCTF.dll (0x76EE0000)
+	C:\WINDOWS\system32\NLAapi.dll (0x709F0000)
+	C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL (0x71B90000)
+	C:\WINDOWS\System32\SETUPAPI.dll (0x76AB0000)
+	C:\WINDOWS\SYSTEM32\DEVOBJ.dll (0x72FC0000)
+	C:\WINDOWS\system32\audioses.dll (0x5AC70000)
+	C:\WINDOWS\SYSTEM32\wintypes.dll (0x6E060000)
+	C:\WINDOWS\system32\AVRT.dll (0x70050000)
+	C:\WINDOWS\system32\MMDevAPI.DLL (0x5AC10000)
+	C:\WINDOWS\system32\PROPSYS.dll (0x70B00000)
+	C:\WINDOWS\System32\clbcatq.dll (0x76600000)
+	C:\WINDOWS\SYSTEM32\mscms.dll (0x5AB80000)
+	C:\WINDOWS\SYSTEM32\icm32.dll (0x5AB40000)
+	C:\Program Files (x86)\Steam\steamclient.dll (0x59840000)
+	C:\Program Files (x86)\Steam\vstdlib_s.dll (0x6D570000)
+	C:\Program Files (x86)\Steam\tier0_s.dll (0x620A0000)
+	C:\WINDOWS\SYSTEM32\MSWSOCK.dll (0x71A50000)
+	C:\Windows\System32\twinapi.appcore.dll (0x64F60000)
+	C:\Windows\System32\RMCLIENT.dll (0x6DDB0000)
+	C:\WINDOWS\system32\twinapi.dll (0x6E180000)
+	C:\WINDOWS\system32\TextInputFramework.dll (0x6D6A0000)
+	C:\WINDOWS\system32\CoreMessaging.dll (0x6D5D0000)
+	C:\WINDOWS\system32\CoreUIComponents.dll (0x69A50000)
+	C:\WINDOWS\SYSTEM32\DNSAPI.dll (0x72F00000)
+	C:\Windows\System32\rasadhlp.dll (0x709D0000)
+	C:\WINDOWS\System32\fwpuclnt.dll (0x73450000)
+
+Process ID: 2748
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\steamwebhelper.exe (0x00FF0000)
+	C:\WINDOWS\SYSTEM32\ntdll.dll (0x77C10000)
+	C:\WINDOWS\System32\KERNEL32.DLL (0x75FE0000)
+	C:\WINDOWS\System32\KERNELBASE.dll (0x76810000)
+	C:\WINDOWS\System32\SHLWAPI.dll (0x77B20000)
+	C:\WINDOWS\System32\msvcrt.dll (0x764F0000)
+	C:\WINDOWS\System32\combase.dll (0x75C30000)
+	C:\WINDOWS\System32\ucrtbase.dll (0x77080000)
+	C:\WINDOWS\System32\RPCRT4.dll (0x76320000)
+	C:\WINDOWS\System32\SspiCli.dll (0x74630000)
+	C:\WINDOWS\System32\CRYPTBASE.dll (0x74620000)
+	C:\WINDOWS\System32\bcryptPrimitives.dll (0x77AC0000)
+	C:\WINDOWS\System32\sechost.dll (0x77030000)
+	C:\WINDOWS\System32\GDI32.dll (0x76A70000)
+	C:\WINDOWS\System32\gdi32full.dll (0x76180000)
+	C:\WINDOWS\System32\msvcp_win.dll (0x769F0000)
+	C:\WINDOWS\System32\USER32.dll (0x771A0000)
+	C:\WINDOWS\System32\win32u.dll (0x764D0000)
+	C:\WINDOWS\System32\ADVAPI32.dll (0x75BB0000)
+	C:\WINDOWS\System32\SHELL32.dll (0x74650000)
+	C:\WINDOWS\System32\cfgmgr32.dll (0x762E0000)
+	C:\WINDOWS\SYSTEM32\WINMM.dll (0x737D0000)
+	C:\WINDOWS\System32\shcore.dll (0x76440000)
+	C:\WINDOWS\System32\windows.storage.dll (0x774F0000)
+	C:\WINDOWS\System32\kernel.appcore.dll (0x75FD0000)
+	C:\WINDOWS\System32\powrprof.dll (0x765B0000)
+	C:\WINDOWS\SYSTEM32\winmmbase.dll (0x737A0000)
+	C:\WINDOWS\System32\profapi.dll (0x75AF0000)
+	C:\WINDOWS\System32\ole32.dll (0x759F0000)
+	C:\WINDOWS\System32\OLEAUT32.dll (0x77B70000)
+	C:\WINDOWS\System32\PSAPI.DLL (0x75B10000)
+	C:\WINDOWS\System32\WS2_32.dll (0x760B0000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\SDL2.dll (0x60650000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\libcef.dll (0x5C060000)
+	C:\WINDOWS\System32\WINTRUST.dll (0x75EA0000)
+	C:\WINDOWS\System32\MSASN1.dll (0x76690000)
+	C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\COMCTL32.dll (0x6DB40000)
+	C:\WINDOWS\System32\CRYPT32.dll (0x77320000)
+	C:\WINDOWS\System32\COMDLG32.dll (0x75EF0000)
+	C:\WINDOWS\System32\IMM32.dll (0x774B0000)
+	C:\WINDOWS\SYSTEM32\USERENV.dll (0x74490000)
+	C:\WINDOWS\SYSTEM32\OLEACC.dll (0x70E30000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\chrome_elf.dll (0x5BFE0000)
+	C:\WINDOWS\SYSTEM32\dbghelp.dll (0x6C980000)
+	C:\WINDOWS\SYSTEM32\USP10.dll (0x6EAD0000)
+	C:\WINDOWS\SYSTEM32\VERSION.dll (0x73EE0000)
+	C:\WINDOWS\SYSTEM32\dwmapi.dll (0x70DA0000)
+	C:\WINDOWS\SYSTEM32\CRYPTUI.dll (0x73170000)
+	C:\WINDOWS\SYSTEM32\NETAPI32.dll (0x71ED0000)
+	C:\WINDOWS\SYSTEM32\DWrite.dll (0x60700000)
+	C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL (0x71B70000)
+	C:\WINDOWS\System32\NSI.dll (0x774E0000)
+	C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL (0x73340000)
+	C:\WINDOWS\SYSTEM32\ncrypt.dll (0x71430000)
+	C:\WINDOWS\SYSTEM32\Secur32.dll (0x71EF0000)
+	C:\WINDOWS\SYSTEM32\urlmon.dll (0x6DED0000)
+	C:\WINDOWS\System32\imagehlp.dll (0x75E80000)
+	C:\WINDOWS\SYSTEM32\WINHTTP.dll (0x73200000)
+	C:\WINDOWS\SYSTEM32\d3d9.dll (0x66D70000)
+	C:\WINDOWS\SYSTEM32\d3d11.dll (0x665A0000)
+	C:\WINDOWS\SYSTEM32\dxva2.dll (0x6E890000)
+	C:\WINDOWS\SYSTEM32\WTSAPI32.dll (0x744C0000)
+	C:\WINDOWS\SYSTEM32\dxgi.dll (0x667E0000)
+	C:\WINDOWS\SYSTEM32\WINSPOOL.DRV (0x732B0000)
+	C:\WINDOWS\SYSTEM32\bcrypt.dll (0x73320000)
+	C:\WINDOWS\SYSTEM32\NTASN1.dll (0x71400000)
+	C:\WINDOWS\SYSTEM32\iertutil.dll (0x6D920000)
+	C:\WINDOWS\SYSTEM32\SAMCLI.DLL (0x71EB0000)
+	C:\WINDOWS\SYSTEM32\NETUTILS.DLL (0x71EA0000)
+	C:\Program Files (x86)\Steam\winh264.dll (0x5BFB0000)
+	C:\WINDOWS\System32\SETUPAPI.dll (0x76AB0000)
+	C:\WINDOWS\SYSTEM32\MFPlat.DLL (0x5BE30000)
+	C:\WINDOWS\SYSTEM32\MF.dll (0x5BDA0000)
+	C:\WINDOWS\SYSTEM32\MFReadWrite.dll (0x5BCA0000)
+	C:\WINDOWS\SYSTEM32\MFCORE.DLL (0x5B830000)
+	C:\WINDOWS\SYSTEM32\ksuser.dll (0x70950000)
+	C:\WINDOWS\SYSTEM32\mfperfhelper.dll (0x5B720000)
+	C:\WINDOWS\SYSTEM32\RTWorkQ.DLL (0x5B6F0000)
+	C:\WINDOWS\System32\clbcatq.dll (0x76600000)
+	C:\WINDOWS\SYSTEM32\CompPkgSup.DLL (0x6C360000)
+	C:\Windows\System32\Windows.Media.dll (0x5B130000)
+	C:\Windows\System32\MFSENSORGROUP.dll (0x5B0F0000)
+	C:\Windows\System32\Windows.StateRepositoryPS.dll (0x5B060000)
+	C:\Windows\System32\WinTypes.dll (0x6E060000)
+	C:\Windows\System32\msmpeg2vdec.dll (0x5AD70000)
+	C:\WINDOWS\SYSTEM32\cryptsp.dll (0x71B50000)
+	C:\WINDOWS\system32\uxtheme.dll (0x6D4F0000)
+	C:\WINDOWS\SYSTEM32\ntmarta.dll (0x72790000)
+	C:\WINDOWS\SYSTEM32\avrt.dll (0x70050000)
+	C:\WINDOWS\System32\MSCTF.dll (0x76EE0000)
+
+Process ID: 5592
+
+Process ID: 6056
+
+Process ID: 7736
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\steamwebhelper.exe (0x00FF0000)
+	C:\WINDOWS\SYSTEM32\ntdll.dll (0x77C10000)
+	C:\WINDOWS\System32\KERNEL32.DLL (0x75FE0000)
+	C:\WINDOWS\System32\KERNELBASE.dll (0x76810000)
+	C:\WINDOWS\System32\SHLWAPI.dll (0x77B20000)
+	C:\WINDOWS\System32\msvcrt.dll (0x764F0000)
+	C:\WINDOWS\System32\combase.dll (0x75C30000)
+	C:\WINDOWS\System32\ucrtbase.dll (0x77080000)
+	C:\WINDOWS\System32\RPCRT4.dll (0x76320000)
+	C:\WINDOWS\System32\SspiCli.dll (0x74630000)
+	C:\WINDOWS\System32\CRYPTBASE.dll (0x74620000)
+	C:\WINDOWS\System32\bcryptPrimitives.dll (0x77AC0000)
+	C:\WINDOWS\System32\sechost.dll (0x77030000)
+	C:\WINDOWS\System32\GDI32.dll (0x76A70000)
+	C:\WINDOWS\System32\gdi32full.dll (0x76180000)
+	C:\WINDOWS\System32\msvcp_win.dll (0x769F0000)
+	C:\WINDOWS\System32\USER32.dll (0x771A0000)
+	C:\WINDOWS\System32\win32u.dll (0x764D0000)
+	C:\WINDOWS\System32\ADVAPI32.dll (0x75BB0000)
+	C:\WINDOWS\System32\SHELL32.dll (0x74650000)
+	C:\WINDOWS\System32\cfgmgr32.dll (0x762E0000)
+	C:\WINDOWS\System32\shcore.dll (0x76440000)
+	C:\WINDOWS\System32\windows.storage.dll (0x774F0000)
+	C:\WINDOWS\System32\kernel.appcore.dll (0x75FD0000)
+	C:\WINDOWS\System32\powrprof.dll (0x765B0000)
+	C:\WINDOWS\System32\profapi.dll (0x75AF0000)
+	C:\WINDOWS\System32\ole32.dll (0x759F0000)
+	C:\WINDOWS\System32\OLEAUT32.dll (0x77B70000)
+	C:\WINDOWS\System32\PSAPI.DLL (0x75B10000)
+	C:\WINDOWS\System32\WS2_32.dll (0x760B0000)
+	C:\WINDOWS\SYSTEM32\WINMM.dll (0x737D0000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\SDL2.dll (0x60650000)
+	C:\WINDOWS\System32\IMM32.dll (0x774B0000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\libcef.dll (0x5C060000)
+	C:\WINDOWS\System32\WINTRUST.dll (0x75EA0000)
+	C:\WINDOWS\System32\MSASN1.dll (0x76690000)
+	C:\WINDOWS\System32\CRYPT32.dll (0x77320000)
+	C:\WINDOWS\System32\COMDLG32.dll (0x75EF0000)
+	C:\WINDOWS\SYSTEM32\WINMMBASE.dll (0x737A0000)
+	C:\WINDOWS\SYSTEM32\VERSION.dll (0x73EE0000)
+	C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\COMCTL32.dll (0x6DB40000)
+	C:\WINDOWS\SYSTEM32\USERENV.dll (0x74490000)
+	C:\WINDOWS\SYSTEM32\OLEACC.dll (0x70E30000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\chrome_elf.dll (0x5BFE0000)
+	C:\WINDOWS\SYSTEM32\dbghelp.dll (0x6C980000)
+	C:\WINDOWS\SYSTEM32\USP10.dll (0x6EAD0000)
+	C:\WINDOWS\SYSTEM32\CRYPTUI.dll (0x73170000)
+	C:\WINDOWS\SYSTEM32\dwmapi.dll (0x70DA0000)
+	C:\WINDOWS\SYSTEM32\NETAPI32.dll (0x71ED0000)
+	C:\WINDOWS\SYSTEM32\DWrite.dll (0x60700000)
+	C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL (0x71B70000)
+	C:\WINDOWS\System32\NSI.dll (0x774E0000)
+	C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL (0x73340000)
+	C:\WINDOWS\SYSTEM32\ncrypt.dll (0x71430000)
+	C:\WINDOWS\SYSTEM32\Secur32.dll (0x71EF0000)
+	C:\WINDOWS\SYSTEM32\urlmon.dll (0x6DED0000)
+	C:\WINDOWS\System32\imagehlp.dll (0x75E80000)
+	C:\WINDOWS\SYSTEM32\WINHTTP.dll (0x73200000)
+	C:\WINDOWS\SYSTEM32\d3d9.dll (0x66D70000)
+	C:\WINDOWS\SYSTEM32\d3d11.dll (0x665A0000)
+	C:\WINDOWS\SYSTEM32\dxva2.dll (0x6E890000)
+	C:\WINDOWS\SYSTEM32\WTSAPI32.dll (0x744C0000)
+	C:\WINDOWS\SYSTEM32\dxgi.dll (0x667E0000)
+	C:\WINDOWS\SYSTEM32\WINSPOOL.DRV (0x732B0000)
+	C:\WINDOWS\SYSTEM32\bcrypt.dll (0x73320000)
+	C:\WINDOWS\SYSTEM32\NTASN1.dll (0x71400000)
+	C:\WINDOWS\SYSTEM32\iertutil.dll (0x6D920000)
+	C:\WINDOWS\SYSTEM32\SAMCLI.DLL (0x71EB0000)
+	C:\WINDOWS\SYSTEM32\NETUTILS.DLL (0x71EA0000)
+	C:\Program Files (x86)\Steam\winh264.dll (0x5BFB0000)
+	C:\WINDOWS\System32\SETUPAPI.dll (0x76AB0000)
+	C:\WINDOWS\SYSTEM32\MF.dll (0x5BDA0000)
+	C:\WINDOWS\SYSTEM32\MFReadWrite.dll (0x5BCA0000)
+	C:\WINDOWS\SYSTEM32\MFPlat.DLL (0x5BE30000)
+	C:\WINDOWS\SYSTEM32\MFCORE.DLL (0x5B830000)
+	C:\WINDOWS\SYSTEM32\ksuser.dll (0x70950000)
+	C:\WINDOWS\SYSTEM32\mfperfhelper.dll (0x5B720000)
+	C:\WINDOWS\SYSTEM32\RTWorkQ.DLL (0x5B6F0000)
+	C:\WINDOWS\System32\clbcatq.dll (0x76600000)
+	C:\WINDOWS\SYSTEM32\CompPkgSup.DLL (0x6C360000)
+	C:\Windows\System32\msmpeg2vdec.dll (0x5AD70000)
+	C:\WINDOWS\SYSTEM32\cryptsp.dll (0x71B50000)
+
+Process ID: 7212
+
+Process ID: 8124
+
+Process ID: 3220
+
+Process ID: 3344
+
+Process ID: 8480
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\steamwebhelper.exe (0x00FF0000)
+	C:\WINDOWS\SYSTEM32\ntdll.dll (0x77C10000)
+	C:\WINDOWS\System32\KERNEL32.DLL (0x75FE0000)
+	C:\WINDOWS\System32\KERNELBASE.dll (0x76810000)
+	C:\WINDOWS\System32\SHLWAPI.dll (0x77B20000)
+	C:\WINDOWS\System32\msvcrt.dll (0x764F0000)
+	C:\WINDOWS\System32\combase.dll (0x75C30000)
+	C:\WINDOWS\System32\ucrtbase.dll (0x77080000)
+	C:\WINDOWS\System32\RPCRT4.dll (0x76320000)
+	C:\WINDOWS\System32\SspiCli.dll (0x74630000)
+	C:\WINDOWS\System32\CRYPTBASE.dll (0x74620000)
+	C:\WINDOWS\System32\bcryptPrimitives.dll (0x77AC0000)
+	C:\WINDOWS\System32\sechost.dll (0x77030000)
+	C:\WINDOWS\System32\GDI32.dll (0x76A70000)
+	C:\WINDOWS\System32\gdi32full.dll (0x76180000)
+	C:\WINDOWS\System32\msvcp_win.dll (0x769F0000)
+	C:\WINDOWS\System32\USER32.dll (0x771A0000)
+	C:\WINDOWS\System32\win32u.dll (0x764D0000)
+	C:\WINDOWS\System32\ADVAPI32.dll (0x75BB0000)
+	C:\WINDOWS\System32\SHELL32.dll (0x74650000)
+	C:\WINDOWS\System32\cfgmgr32.dll (0x762E0000)
+	C:\WINDOWS\System32\shcore.dll (0x76440000)
+	C:\WINDOWS\System32\windows.storage.dll (0x774F0000)
+	C:\WINDOWS\System32\kernel.appcore.dll (0x75FD0000)
+	C:\WINDOWS\System32\powrprof.dll (0x765B0000)
+	C:\WINDOWS\System32\profapi.dll (0x75AF0000)
+	C:\WINDOWS\System32\ole32.dll (0x759F0000)
+	C:\WINDOWS\System32\OLEAUT32.dll (0x77B70000)
+	C:\WINDOWS\System32\PSAPI.DLL (0x75B10000)
+	C:\WINDOWS\System32\WS2_32.dll (0x760B0000)
+	C:\WINDOWS\SYSTEM32\WINMM.dll (0x737D0000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\SDL2.dll (0x60650000)
+	C:\WINDOWS\System32\IMM32.dll (0x774B0000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\libcef.dll (0x5C060000)
+	C:\WINDOWS\System32\WINTRUST.dll (0x75EA0000)
+	C:\WINDOWS\System32\MSASN1.dll (0x76690000)
+	C:\WINDOWS\System32\CRYPT32.dll (0x77320000)
+	C:\WINDOWS\System32\COMDLG32.dll (0x75EF0000)
+	C:\WINDOWS\SYSTEM32\WINMMBASE.dll (0x737A0000)
+	C:\WINDOWS\SYSTEM32\VERSION.dll (0x73EE0000)
+	C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\COMCTL32.dll (0x6DB40000)
+	C:\WINDOWS\SYSTEM32\USERENV.dll (0x74490000)
+	C:\WINDOWS\SYSTEM32\OLEACC.dll (0x70E30000)
+	C:\Program Files (x86)\Steam\bin\cef\cef.win7\chrome_elf.dll (0x5BFE0000)
+	C:\WINDOWS\SYSTEM32\dbghelp.dll (0x6C980000)
+	C:\WINDOWS\SYSTEM32\USP10.dll (0x6EAD0000)
+	C:\WINDOWS\SYSTEM32\CRYPTUI.dll (0x73170000)
+	C:\WINDOWS\SYSTEM32\dwmapi.dll (0x70DA0000)
+	C:\WINDOWS\SYSTEM32\NETAPI32.dll (0x71ED0000)
+	C:\WINDOWS\SYSTEM32\DWrite.dll (0x60700000)
+	C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL (0x71B70000)
+	C:\WINDOWS\System32\NSI.dll (0x774E0000)
+	C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL (0x73340000)
+	C:\WINDOWS\SYSTEM32\ncrypt.dll (0x71430000)
+	C:\WINDOWS\SYSTEM32\Secur32.dll (0x71EF0000)
+	C:\WINDOWS\SYSTEM32\urlmon.dll (0x6DED0000)
+	C:\WINDOWS\System32\imagehlp.dll (0x75E80000)
+	C:\WINDOWS\SYSTEM32\WINHTTP.dll (0x73200000)
+	C:\WINDOWS\SYSTEM32\d3d9.dll (0x66D70000)
+	C:\WINDOWS\SYSTEM32\d3d11.dll (0x665A0000)
+	C:\WINDOWS\SYSTEM32\dxva2.dll (0x6E890000)
+	C:\WINDOWS\SYSTEM32\WTSAPI32.dll (0x744C0000)
+	C:\WINDOWS\SYSTEM32\dxgi.dll (0x667E0000)
+	C:\WINDOWS\SYSTEM32\WINSPOOL.DRV (0x732B0000)
+	C:\WINDOWS\SYSTEM32\bcrypt.dll (0x73320000)
+	C:\WINDOWS\SYSTEM32\NTASN1.dll (0x71400000)
+	C:\WINDOWS\SYSTEM32\iertutil.dll (0x6D920000)
+	C:\WINDOWS\SYSTEM32\SAMCLI.DLL (0x71EB0000)
+	C:\WINDOWS\SYSTEM32\NETUTILS.DLL (0x71EA0000)
+	C:\Program Files (x86)\Steam\winh264.dll (0x5BFB0000)
+	C:\WINDOWS\System32\SETUPAPI.dll (0x76AB0000)
+	C:\WINDOWS\SYSTEM32\MF.dll (0x5BDA0000)
+	C:\WINDOWS\SYSTEM32\MFReadWrite.dll (0x5BCA0000)
+	C:\WINDOWS\SYSTEM32\MFPlat.DLL (0x5BE30000)
+	C:\WINDOWS\SYSTEM32\MFCORE.DLL (0x5B830000)
+	C:\WINDOWS\SYSTEM32\ksuser.dll (0x70950000)
+	C:\WINDOWS\SYSTEM32\mfperfhelper.dll (0x5B720000)
+	C:\WINDOWS\SYSTEM32\RTWorkQ.DLL (0x5B6F0000)
+	C:\WINDOWS\System32\clbcatq.dll (0x76600000)
+	C:\WINDOWS\SYSTEM32\CompPkgSup.DLL (0x6C360000)
+	C:\Windows\System32\msmpeg2vdec.dll (0x5AD70000)
+	C:\WINDOWS\SYSTEM32\cryptsp.dll (0x71B50000)
+
+Process ID: 872
+
+Process ID: 6612
+
+Process ID: 2996
+
+Process ID: 8800
+
+Process ID: 4008
+
+Process ID: 7376
+
+Process ID: 8616
+
+Process ID: 10192
+
+Process ID: 12880
+
+Process ID: 12436
+
+Process ID: 6264
+
+Process ID: 5304
+
+Process ID: 3912
+
+Process ID: 13248
+	C:\Program Files (x86)\Notepad++\notepad++.exe (0x00C10000)
+	C:\WINDOWS\SYSTEM32\ntdll.dll (0x77C10000)
+	C:\WINDOWS\System32\KERNEL32.DLL (0x75FE0000)
+	C:\WINDOWS\System32\KERNELBASE.dll (0x76810000)
+	C:\WINDOWS\SYSTEM32\apphelp.dll (0x74580000)
+	C:\WINDOWS\System32\SHLWAPI.dll (0x77B20000)
+	C:\WINDOWS\System32\msvcrt.dll (0x764F0000)
+	C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.16299.248_none_5d7c08dba7db7edd\COMCTL32.dll (0x6DB40000)
+	C:\WINDOWS\System32\combase.dll (0x75C30000)
+	C:\WINDOWS\System32\ucrtbase.dll (0x77080000)
+	C:\WINDOWS\System32\GDI32.dll (0x76A70000)
+	C:\WINDOWS\System32\RPCRT4.dll (0x76320000)
+	C:\WINDOWS\System32\gdi32full.dll (0x76180000)
+	C:\WINDOWS\System32\SspiCli.dll (0x74630000)
+	C:\WINDOWS\System32\msvcp_win.dll (0x769F0000)
+	C:\WINDOWS\System32\CRYPTBASE.dll (0x74620000)
+	C:\WINDOWS\System32\bcryptPrimitives.dll (0x77AC0000)
+	C:\WINDOWS\System32\USER32.dll (0x771A0000)
+	C:\WINDOWS\System32\win32u.dll (0x764D0000)
+	C:\WINDOWS\System32\sechost.dll (0x77030000)
+	C:\WINDOWS\System32\SHELL32.dll (0x74650000)
+	C:\WINDOWS\System32\cfgmgr32.dll (0x762E0000)
+	C:\WINDOWS\System32\shcore.dll (0x76440000)
+	C:\WINDOWS\System32\windows.storage.dll (0x774F0000)
+	C:\WINDOWS\System32\advapi32.dll (0x75BB0000)
+	C:\WINDOWS\System32\kernel.appcore.dll (0x75FD0000)
+	C:\WINDOWS\System32\powrprof.dll (0x765B0000)
+	C:\WINDOWS\System32\profapi.dll (0x75AF0000)
+	C:\WINDOWS\System32\CRYPT32.dll (0x77320000)
+	C:\WINDOWS\System32\MSASN1.dll (0x76690000)
+	C:\WINDOWS\System32\WINTRUST.dll (0x75EA0000)
+	C:\WINDOWS\SYSTEM32\dbghelp.dll (0x6C980000)
+	C:\WINDOWS\System32\COMDLG32.dll (0x75EF0000)
+	C:\WINDOWS\System32\ole32.dll (0x759F0000)
+	C:\WINDOWS\SYSTEM32\SensApi.dll (0x6F7D0000)
+	C:\WINDOWS\System32\IMM32.DLL (0x774B0000)
+	C:\WINDOWS\System32\imagehlp.dll (0x75E80000)
+	C:\WINDOWS\SYSTEM32\CRYPTSP.dll (0x71B50000)
+	C:\WINDOWS\system32\rsaenh.dll (0x71B20000)
+	C:\WINDOWS\SYSTEM32\bcrypt.dll (0x73320000)
+	C:\Program Files (x86)\Notepad++\SciLexer.dll (0x559E0000)
+	C:\WINDOWS\System32\OLEAUT32.dll (0x77B70000)
+	C:\WINDOWS\SYSTEM32\Msimg32.DLL (0x6F990000)
+	C:\WINDOWS\system32\uxtheme.dll (0x6D4F0000)
+	C:\WINDOWS\SYSTEM32\CLDAPI.dll (0x70AD0000)
+	C:\WINDOWS\SYSTEM32\AEPIC.dll (0x70A90000)
+	C:\WINDOWS\SYSTEM32\FLTLIB.DLL (0x72CA0000)
+	C:\WINDOWS\SYSTEM32\ntmarta.dll (0x72790000)
+	C:\WINDOWS\System32\clbcatq.dll (0x76600000)
+	C:\WINDOWS\system32\propsys.dll (0x70B00000)
+	C:\WINDOWS\System32\MSCTF.dll (0x76EE0000)
+	C:\WINDOWS\system32\dwmapi.dll (0x70DA0000)
+	C:\WINDOWS\system32\dataexchange.dll (0x6E130000)
+	C:\WINDOWS\system32\dcomp.dll (0x650A0000)
+	C:\WINDOWS\system32\d3d11.dll (0x665A0000)
+	C:\WINDOWS\system32\dxgi.dll (0x667E0000)
+	C:\WINDOWS\system32\twinapi.appcore.dll (0x64F60000)
+	C:\WINDOWS\system32\RMCLIENT.dll (0x6DDB0000)
+	C:\WINDOWS\SYSTEM32\WindowsCodecs.dll (0x580E0000)
+	C:\WINDOWS\System32\TextInputFramework.dll (0x6D6A0000)
+	C:\WINDOWS\System32\CoreMessaging.dll (0x6D5D0000)
+	C:\WINDOWS\System32\CoreUIComponents.dll (0x69A50000)
+	C:\WINDOWS\SYSTEM32\wintypes.dll (0x6E060000)
+	C:\Program Files (x86)\Notepad++\plugins\mimeTools.dll (0x56530000)
+	C:\Program Files (x86)\Notepad++\plugins\NppConverter.dll (0x56500000)
+	C:\Program Files (x86)\Notepad++\plugins\NppExport.dll (0x10000000)
+
+Process ID: 2656
+
+Process ID: 12284
+
+Process ID: 5780
+
+Process ID: 10904
+
+Process ID: 4032
+
+Process ID: 8044
+
+Process ID: 556
+
+Process ID: 5420
+
+Process ID: 8632
+	C:\MinGW\src\module_enumeration\module_enumeration.exe (0x00400000)
+	C:\WINDOWS\SYSTEM32\ntdll.dll (0x77C10000)
+	C:\WINDOWS\System32\KERNEL32.DLL (0x75FE0000)
+	C:\WINDOWS\System32\KERNELBASE.dll (0x76810000)
+	C:\WINDOWS\System32\msvcrt.dll (0x764F0000)
+	C:\WINDOWS\System32\PSAPI.DLL (0x75B10000)
